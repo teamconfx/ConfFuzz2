@@ -1,0 +1,2 @@
+{"hbase.regionserver.wal.disruptor.event.count": "301", "hbase.wal.provider": "multiwal"}
+org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted

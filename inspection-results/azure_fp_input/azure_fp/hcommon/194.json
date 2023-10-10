@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "2015328862", "io.file.buffer.size": "1388778684"}
+org.apache.hadoop.fs.TestFSMainOperationsLocalFileSystem#testInputStreamClosedTwice

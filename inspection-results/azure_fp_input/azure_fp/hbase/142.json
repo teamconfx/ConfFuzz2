@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "304090498", "hbase.rs.prefetchblocksonopen": "true", "fs.file.impl": "org.apache.hadoop.fs.RawLocalFileSystem"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanner

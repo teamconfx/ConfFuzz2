@@ -1,0 +1,2 @@
+{"dfs.datanode.max.locked.memory": "1070492031"}
+org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes

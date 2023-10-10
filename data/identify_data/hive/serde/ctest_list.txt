@@ -1,0 +1,2 @@
+org.apache.hadoop.hive.serde2.lazy.TestLazySimpleFast#testLazySimpleDeserializeRowEmptyArray
+org.apache.hadoop.hive.serde2.lazy.fast.TestLazySimpleDeserializeRead#testEscaping

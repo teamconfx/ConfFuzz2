@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "52"}
+org.apache.hadoop.mapreduce.lib.input.TestLineRecordReader#testBzipWithMultibyteDelimiter

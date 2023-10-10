@@ -1,0 +1,2 @@
+{"hbase.regionserver.hlog.blocksize": "1"}
+org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted

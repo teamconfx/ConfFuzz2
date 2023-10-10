@@ -1,0 +1,2 @@
+{"yarn.client.failover-proxy-provider": "org.apache.hadoop.yarn.client.DefaultNoHARMFailoverProxyProvider"}
+org.apache.hadoop.yarn.client.TestClientRMProxy#testProxyUserCorrectUGI

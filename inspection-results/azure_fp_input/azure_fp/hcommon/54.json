@@ -1,0 +1,2 @@
+{"hadoop.security.credential.clear-text-fallback": "false"}
+org.apache.hadoop.ha.TestZKFailoverController#testGracefulFailoverFailBecomingActive

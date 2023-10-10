@@ -1,0 +1,2 @@
+{"hadoop.http.logs.enabled": "false"}
+org.apache.hadoop.http.TestHttpServer#testDisabledAuthorizationOfDefaultServlets

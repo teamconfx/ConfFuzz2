@@ -1,0 +1,2 @@
+{"hbase.blockcache.minblocksize": "2", "hfile.block.cache.size": "0.08418947458267212", "hfile.block.cache.policy": "TinyLFU"}
+org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testLruBlockCache

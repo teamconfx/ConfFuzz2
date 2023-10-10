@@ -1,0 +1,2 @@
+{"dfs.bytes-per-checksum": "19492"}
+org.apache.hadoop.mapreduce.split.TestJobSplitWriterWithEC#testMaxBlockLocationsOldSplitsWithErasureCoding

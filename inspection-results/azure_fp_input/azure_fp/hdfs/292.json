@@ -1,0 +1,2 @@
+{"dfs.namenode.blocks.per.postponedblocks.rescan": "778928574", "dfs.image.compress": "true", "io.file.buffer.size": "2052039959"}
+org.apache.hadoop.fs.contract.hdfs.TestHDFSContractRename#testRenameNewFileSameDir

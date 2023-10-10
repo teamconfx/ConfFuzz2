@@ -1,0 +1,2 @@
+{"dfs.namenode.replication.min": "12255"}
+org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes

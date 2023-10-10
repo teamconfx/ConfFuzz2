@@ -1,0 +1,2 @@
+{"hfile.block.cache.policy": "IndexOnlyLRU"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testCacheConfigDefaultLRUBlockCache

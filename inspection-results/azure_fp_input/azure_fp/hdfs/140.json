@@ -1,0 +1,2 @@
+{"dfs.datanode.max.locked.memory": "2534"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestHarFileSystemWithHA#testHarUriWithHaUriWithNoPort

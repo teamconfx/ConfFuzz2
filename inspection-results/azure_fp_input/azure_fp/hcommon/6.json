@@ -1,0 +1,2 @@
+{"fs.viewfs.mounttable.default.name.key": "default"}
+org.apache.hadoop.fs.viewfs.TestFcMainOperationsLocalFs#testGlobStatusWithMultipleWildCardMatches

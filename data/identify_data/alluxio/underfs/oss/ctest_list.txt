@@ -1,0 +1,8 @@
+alluxio.underfs.oss.OSSInputStreamTest#close
+alluxio.underfs.oss.OSSUnderFileSystemTest#deleteNonRecursiveOnServiceException
+alluxio.underfs.oss.OSSInputStreamTest#skip
+alluxio.underfs.oss.OSSUnderFileSystemTest#deleteRecursiveOnServiceException
+alluxio.underfs.oss.OSSUnderFileSystemTest#renameOnServiceException
+alluxio.underfs.oss.OSSUnderFileSystemFactoryTest#factory
+alluxio.underfs.oss.OSSInputStreamTest#readInt
+alluxio.underfs.oss.OSSInputStreamTest#readByteArray

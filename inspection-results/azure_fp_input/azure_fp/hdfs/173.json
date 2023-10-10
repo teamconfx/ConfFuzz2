@@ -1,0 +1,2 @@
+{"dfs.namenode.resource.checked.volumes.minimum": "70081660"}
+org.apache.hadoop.hdfs.server.namenode.TestNameNodeResourceChecker#testCheckAvailability

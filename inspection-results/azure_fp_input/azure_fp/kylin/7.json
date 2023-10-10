@@ -1,0 +1,2 @@
+{"kylin.cube.is-automerge-enabled": "false"}
+org.apache.kylin.cube.CubeManagerTest#testAutoMergeWithVolatileRange

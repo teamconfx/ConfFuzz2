@@ -1,0 +1,2 @@
+alluxio.multi.process.MultiProcessClusterTest#simpleCluster
+alluxio.multi.process.MultiProcessClusterTest#zookeeper

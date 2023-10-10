@@ -1,0 +1,2 @@
+{"dfs.client.block.write.locateFollowingBlock.initial.delay.ms": "3", "dfs.blockreport.incremental.intervalMsec": "1025"}
+org.apache.hadoop.hdfs.server.namenode.snapshot.TestSnapshotDiffReport#testDiffReportWithOpenFiles

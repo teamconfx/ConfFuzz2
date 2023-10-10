@@ -1,0 +1,2 @@
+{"hbase.ipc.server.callqueue.read.ratio": "7297"}
+org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testPluggableRpcQueueWireUpWithoutFastPathExecutor

@@ -1,0 +1,2 @@
+{"hadoop.security.group.mapping.ldap.search.group.hierarchy.levels": "3"}
+org.apache.hadoop.security.TestLdapGroupsMapping#testGetGroups

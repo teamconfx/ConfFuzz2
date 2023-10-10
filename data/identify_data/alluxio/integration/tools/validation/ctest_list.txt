@@ -1,0 +1,7 @@
+alluxio.cli.hdfs.HdfsProxyUserValidationTaskTest#wildcardProxyUsers
+alluxio.cli.UfsOperationsTest#ufsContractTest
+alluxio.cli.hdfs.HdfsProxyUserValidationTaskTest#skipped
+alluxio.cli.hdfs.HdfsProxyUserValidationTaskTest#wildcardProxyGroups
+alluxio.cli.hdfs.HdfsProxyUserValidationTaskTest#proxyUserNotWildcard
+alluxio.cli.hdfs.HdfsProxyUserValidationTaskTest#proxyUsersAndGroupsAllMissing
+alluxio.cli.hdfs.HdfsProxyUserValidationTaskTest#missingProxyUser

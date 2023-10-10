@@ -1,0 +1,2 @@
+{"hbase.taskmonitor.expiration.time": "8641"}
+org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testHandlerIsolation

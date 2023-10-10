@@ -1,0 +1,2 @@
+{"test.hbase.zookeeper.property.clientPort": "13190"}
+org.apache.hadoop.hbase.TestHBaseTestingUtility#testMiniZooKeeperWithMultipleServers

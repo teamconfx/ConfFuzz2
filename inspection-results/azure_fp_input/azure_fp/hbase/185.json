@@ -1,0 +1,2 @@
+{"hbase.master.store.region.flush.size": "88", "hbase.hregion.memstore.block.multiplier": "63", "hfile.format.version": "783"}
+org.apache.hadoop.hbase.procedure2.store.region.TestWALProcedurePrettyPrinter#test

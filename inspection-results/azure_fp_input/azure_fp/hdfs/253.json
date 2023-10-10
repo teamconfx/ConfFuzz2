@@ -1,0 +1,2 @@
+{"dfs.namenode.edit.log.autoroll.multiplier.threshold": "-0.4923848509788513"}
+org.apache.hadoop.hdfs.server.namenode.TestCheckPointForSecurityTokens#testSaveNamespace

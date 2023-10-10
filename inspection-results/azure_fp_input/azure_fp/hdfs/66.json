@@ -1,0 +1,2 @@
+{"dfs.ha.automatic-failover.enabled": "true"}
+org.apache.hadoop.hdfs.tools.TestDFSHAAdmin#testTransitionToStandby

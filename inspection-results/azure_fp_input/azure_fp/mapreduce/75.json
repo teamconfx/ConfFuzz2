@@ -1,0 +1,2 @@
+{"mapreduce.fileoutputcommitter.cleanup.skipped": "true"}
+org.apache.hadoop.mapreduce.lib.output.TestFileOutputCommitter#testCommitterRepeatableV1

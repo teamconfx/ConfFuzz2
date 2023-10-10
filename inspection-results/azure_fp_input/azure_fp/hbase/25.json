@@ -1,0 +1,2 @@
+{"hbase.bucketcache.memory.factor": "-0.21550148725509644"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithLruCombinedBlockCache

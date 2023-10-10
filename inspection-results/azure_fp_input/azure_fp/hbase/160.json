@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "2130640638", "fs.file.impl": "org.apache.hadoop.fs.RawLocalFileSystem"}
+org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted

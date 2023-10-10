@@ -1,0 +1,2 @@
+{"ipc.0.backoff.enable": "true"}
+org.apache.hadoop.ipc.TestRPC#testClientRpcTimeout

@@ -1,0 +1,2 @@
+{"zeppelin.server.xframe.options": "DENY"}
+org.apache.zeppelin.notebook.NotebookTest#testSchedulePoolUsage

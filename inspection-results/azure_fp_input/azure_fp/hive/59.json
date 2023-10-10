@@ -1,0 +1,2 @@
+{"hive.blobstore.optimizations.enabled": "false"}
+org.apache.hadoop.hive.ql.optimizer.TestGenMapRedUtilsCreateConditionalTask#testMovePathsThatCanBeMerged

@@ -1,0 +1,2 @@
+{"datanucleus.schema.validateTables": "true", "datanucleus.schema.validateColumns": "true"}
+org.apache.hadoop.hive.ql.metadata.TestHive#testDropPartitionsWithPurge

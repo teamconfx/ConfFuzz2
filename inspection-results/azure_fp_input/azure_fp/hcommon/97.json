@@ -1,0 +1,2 @@
+{"ipc.15.weighted-cost.lockshared": "995", "ipc.15.faircallqueue.decay-scheduler.decay-factor": "7.271766662597656E-6", "ipc.15.weighted-cost.lockexclusive": "9546"}
+org.apache.hadoop.ipc.TestDecayRpcScheduler#testUsingWeightedTimeCostProvider

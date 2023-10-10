@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "1469970389", "io.file.buffer.size": "1069542614", "mapreduce.output.fileoutputformat.compress": "true"}
+org.apache.hadoop.mapreduce.lib.output.TestFileOutputCommitter#testCommitterWithDuplicatedCommitV1

@@ -1,0 +1,2 @@
+{"dfs.client.failover.resolve-needed.testcluster": "true"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestObserverReadProxyProvider#testObserverToActive

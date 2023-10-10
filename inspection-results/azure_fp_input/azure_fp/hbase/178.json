@@ -1,0 +1,2 @@
+{"dfs.namenode.safemode.min.datanodes": "767"}
+org.apache.hadoop.hbase.TestHBaseTestingUtility#testSetupClusterTestBuildDir

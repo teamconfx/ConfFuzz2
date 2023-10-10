@@ -1,0 +1,2 @@
+{"dfs.bytes-per-checksum": "120"}
+org.apache.hadoop.hdfs.web.TestWebHDFSAcl#testSetAclMustBeOwnerOrSuper

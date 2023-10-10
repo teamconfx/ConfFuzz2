@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "562813169", "file.stream-buffer-size": "1800914559"}
+org.apache.hadoop.fs.TestFSMainOperationsLocalFileSystem#testGetWrappedInputStream

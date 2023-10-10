@@ -1,0 +1,2 @@
+{"hive.exec.mode.local.auto": "true"}
+org.apache.hadoop.hive.ql.exec.mr.TestMapRedTask#mrTaskSumbitViaChildWithImpersonation

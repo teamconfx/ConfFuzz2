@@ -1,0 +1,2 @@
+{"hbase.ipc.server.max.callqueue.length": "2133518527", "hbase.ipc.server.callqueue.read.ratio": "265"}
+org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testPluggableRpcQueueWireUpWithFastPathExecutor

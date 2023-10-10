@@ -1,0 +1,2 @@
+{"dfs.namenode.heartbeat.recheck-interval": "7"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestStandbyIsHot#testDatanodeRestarts

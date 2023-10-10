@@ -1,0 +1,2 @@
+{"dfs.datanode.fsdatasetasyncdisk.max.threads.per.volume": "0"}
+org.apache.hadoop.hdfs.tools.offlineImageViewer.TestOfflineImageViewerForXAttr#testWebImageViewerForGetXAttrsWithOutParameters

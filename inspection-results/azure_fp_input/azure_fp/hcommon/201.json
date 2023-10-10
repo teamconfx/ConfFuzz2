@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "1556661375", "io.file.buffer.size": "145262928", "hadoop.security.dns.log-slow-lookups.threshold.ms": "522600145", "hadoop.security.groups.cache.warn.after.ms": "554088074"}
+org.apache.hadoop.fs.TestFsShellCopy#testDirectCopy

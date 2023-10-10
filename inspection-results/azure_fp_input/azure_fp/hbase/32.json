@@ -1,0 +1,2 @@
+{"hbase.lru.blockcache.acceptable.factor": "-0.40204083919525146"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithAdaptiveLruCombinedBlockCache

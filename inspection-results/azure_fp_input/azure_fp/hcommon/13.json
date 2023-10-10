@@ -1,0 +1,2 @@
+{"file.stream-buffer-size": "2130640638"}
+org.apache.hadoop.fs.contract.localfs.TestLocalFSContractCreate#testCreatedFileIsVisibleOnFlush

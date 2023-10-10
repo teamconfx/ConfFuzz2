@@ -1,0 +1,2 @@
+{"hive.trigger.validation.interval": "0s"}
+org.apache.hadoop.hive.ql.exec.tez.TestWorkloadManager#testApplyPlanQpChanges

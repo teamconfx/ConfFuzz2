@@ -1,0 +1,13 @@
+Configuration Parameter
+alluxio.security.login.username=null
+alluxio.security.authentication.type=SIMPLE
+alluxio.master.embedded.journal.port=19200
+alluxio.zookeeper.enabled=false
+alluxio.job.master.rpc.addresses=null
+alluxio.job.master.embedded.journal.addresses=null
+alluxio.master.rpc.addresses=null
+alluxio.master.embedded.journal.addresses=null
+alluxio.job.master.rpc.port=20001
+alluxio.master.rpc.port=19998
+alluxio.job.master.client.threads=1024
+alluxio.job.master.embedded.journal.port=20003

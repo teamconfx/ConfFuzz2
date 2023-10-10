@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "1133421309", "hadoop.kerberos.keytab.login.autorenewal.enabled": "true"}
+org.apache.hadoop.io.file.tfile.TestTFile#testUnsortedTFileFeatures

@@ -1,0 +1,2 @@
+{"hive.test.vectorized.adaptor.override": "true", "hive.vectorized.adaptor.usage.mode": "none"}
+org.apache.hadoop.hive.ql.exec.vector.expressions.TestVectorBetweenIn#testStruct

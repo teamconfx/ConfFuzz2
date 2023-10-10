@@ -1,0 +1,2 @@
+{"dfs.client.socket-timeout": "2147483646"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestHASafeMode#testBlocksRemovedWhileInSafeModeEditsArriveFirst

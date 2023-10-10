@@ -1,0 +1,2 @@
+{"mapreduce.job.encrypted-intermediate-data": "true", "mapreduce.job.encrypted-intermediate-data.buffer.kb": "632442548"}
+org.apache.hadoop.mapreduce.task.reduce.TestFetcher#testInterruptOnDisk

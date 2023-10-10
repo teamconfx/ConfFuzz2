@@ -1,0 +1,2 @@
+{"dfs.namenode.resource.checked.volumes.minimum": "34559"}
+org.apache.hadoop.hdfs.TestDecommission#testNodeUsageAfterDecommissioned

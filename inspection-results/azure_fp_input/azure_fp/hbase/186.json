@@ -1,0 +1,2 @@
+{"hbase.regionserver.hlog.async.writer.impl": "org.apache.hadoop.hbase.regionserver.wal.SecureAsyncProtobufLogWriter"}
+org.apache.hadoop.hbase.procedure2.store.region.TestWALProcedurePrettyPrinter#test

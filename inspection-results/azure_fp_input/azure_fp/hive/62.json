@@ -1,0 +1,2 @@
+{"hive.groupby.mapaggr.checkinterval": "1", "hive.vectorized.groupby.maxentries": "0"}
+org.apache.hadoop.hive.ql.exec.vector.TestVectorGroupByOperator#testBigintKeyTypeAggregate

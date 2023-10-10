@@ -1,0 +1,2 @@
+{"fs.file.impl": "org.apache.hadoop.fs.FileSystem"}
+org.apache.hadoop.hbase.io.hfile.TestHFileSeek#testSeeks

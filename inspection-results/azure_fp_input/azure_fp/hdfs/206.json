@@ -1,0 +1,2 @@
+{"dfs.namenode.read.considerLoad": "true"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestDatanodeManager#testGetBlockLocationConsiderStorageType

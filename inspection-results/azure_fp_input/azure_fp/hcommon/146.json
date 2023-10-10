@@ -1,0 +1,2 @@
+{"hadoop.http.max.request.header.size": "20"}
+org.apache.hadoop.http.TestHttpServer#testHttpResonseContainsXFrameOptions

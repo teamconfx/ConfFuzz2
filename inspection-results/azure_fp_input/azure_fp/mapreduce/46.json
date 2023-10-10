@@ -1,0 +1,2 @@
+{"mapreduce.output.fileoutputformat.compress": "true", "mapreduce.output.fileoutputformat.compress.codec": "org.apache.hadoop.io.compress.Lz4Codec", "mapreduce.output.fileoutputformat.compress.type": "BLOCK"}
+org.apache.hadoop.mapred.TestFileOutputCommitter#testMapFileOutputCommitterV2

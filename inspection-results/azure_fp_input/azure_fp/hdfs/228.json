@@ -1,0 +1,2 @@
+{"dfs.datanode.socket.write.timeout": "767", "dfs.datanode.data.write.bandwidthPerSec": "4538"}
+org.apache.hadoop.hdfs.TestParallelShortCircuitLegacyRead#testParallelReadByteBuffer

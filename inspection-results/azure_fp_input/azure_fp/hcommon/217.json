@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1604993424", "file.bytes-per-checksum": "1087901820", "fs.creation.parallel.count": "14037", "tfile.fs.output.buffer.size": "1958953913"}
+org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsByteArrays#testFailureFileWriteNotAt0Position

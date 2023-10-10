@@ -1,0 +1,2 @@
+{"kylin.query.skip-empty-segments": "false"}
+org.apache.kylin.cube.common.SegmentPrunerTest#testEmptySegment

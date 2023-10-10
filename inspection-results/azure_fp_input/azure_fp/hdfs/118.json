@@ -1,0 +1,2 @@
+{"dfs.reformat.disabled": "true"}
+org.apache.hadoop.hdfs.server.namenode.TestClusterId#testFormatWithNonInteractive

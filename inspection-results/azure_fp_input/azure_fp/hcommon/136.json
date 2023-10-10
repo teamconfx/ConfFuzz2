@@ -1,0 +1,2 @@
+{"io.compression.codec.snappy.buffersize": "999830480", "io.file.buffer.size": "1790167039"}
+org.apache.hadoop.io.compress.TestCodec#testSnappyMapFile

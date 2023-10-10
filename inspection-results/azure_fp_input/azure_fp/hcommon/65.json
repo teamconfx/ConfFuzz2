@@ -1,0 +1,2 @@
+{"fs.ftp.data.connection.mode": "PASSIVE_REMOTE_DATA_CONNECTION_MODE"}
+org.apache.hadoop.fs.ftp.TestFTPFileSystem#testCreateWithWritePermissions

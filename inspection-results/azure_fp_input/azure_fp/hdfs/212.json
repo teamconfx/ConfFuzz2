@@ -1,0 +1,2 @@
+{"ipc.server.max.connections": "1"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestStandbyIsHot#testDatanodeRestarts

@@ -1,0 +1,2 @@
+{"dfs.namenode.replication.min": "16", "ipc.maximum.response.length": "843"}
+org.apache.hadoop.hbase.io.TestFileLink#testHDFSLinkReadDuringDelete

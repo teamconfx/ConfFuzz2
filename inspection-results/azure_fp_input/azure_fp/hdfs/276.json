@@ -1,0 +1,2 @@
+{"ipc.maximum.response.length": "695"}
+org.apache.hadoop.hdfs.TestQuota#testSetAndClearSpaceQuotaPathIsFile

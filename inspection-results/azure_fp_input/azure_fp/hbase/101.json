@@ -1,0 +1,2 @@
+{"hbase.ipc.client.specificThreadForWriting": "true", "hbase.ipc.client.write.queueSize": "0"}
+org.apache.hadoop.hbase.ipc.TestBlockingIPC#testNoCodec

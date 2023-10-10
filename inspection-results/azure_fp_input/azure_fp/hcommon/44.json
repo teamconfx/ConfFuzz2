@@ -1,0 +1,2 @@
+{"hadoop.security.kms.client.encrypted.key.cache.size": "0"}
+org.apache.hadoop.crypto.key.kms.TestLoadBalancingKMSClientProvider#testTokenServiceCreationWithUriFormat

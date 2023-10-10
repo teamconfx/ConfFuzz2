@@ -1,0 +1,2 @@
+{"dfs.batched.ls.limit": "0"}
+org.apache.hadoop.hdfs.server.mover.TestMover#testMoverCliWithFederationHA

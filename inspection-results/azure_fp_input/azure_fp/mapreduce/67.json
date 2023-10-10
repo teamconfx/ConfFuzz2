@@ -1,0 +1,2 @@
+{"mapreduce.output.fileoutputformat.compress": "true", "mapreduce.output.fileoutputformat.compress.codec": "org.apache.hadoop.io.compress.SnappyCodec", "io.compression.codec.snappy.buffersize": "0"}
+org.apache.hadoop.mapreduce.lib.output.TestFileOutputCommitter#testFailAbortV1

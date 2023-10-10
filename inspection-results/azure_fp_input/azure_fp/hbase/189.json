@@ -1,0 +1,2 @@
+{"hbase.ipc.server.queue.max.call.delay": "39"}
+org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testRpcScheduler

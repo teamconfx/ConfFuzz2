@@ -1,0 +1,13 @@
+core/server/worker failed!
+core/transport failed!
+examples failed!
+integration/jnifuse/fs failed!
+integration/jnifuse/native failed!
+integration/tools/hms failed!
+microbench failed!
+table/base failed!
+table/client failed!
+underfs/cephfs failed!
+underfs/cephfs-hadoop failed!
+underfs/cos failed!
+underfs/ozone failed!

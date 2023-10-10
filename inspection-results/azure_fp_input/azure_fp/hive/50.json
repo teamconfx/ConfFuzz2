@@ -1,0 +1,2 @@
+{"hive.metastore.hbase.file.metadata.threads": "0"}
+org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testWriteDynamicPartition

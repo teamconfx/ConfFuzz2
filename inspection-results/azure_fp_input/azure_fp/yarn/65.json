@@ -1,0 +1,2 @@
+{"yarn.http.policy": "HTTPS_ONLY", "hadoop.http.selector.count": "1460953568", "hadoop.http.acceptor.count": "634100972"}
+org.apache.hadoop.yarn.webapp.TestWebApp#testYARNWebAppContext

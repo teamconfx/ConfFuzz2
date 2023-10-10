@@ -1,0 +1,2 @@
+{"hfile.block.cache.policy": "TinyLFU", "hbase.blockcache.minblocksize": "0"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testL2CacheWithInvalidBucketSize

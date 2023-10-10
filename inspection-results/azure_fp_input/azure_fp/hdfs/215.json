@@ -1,0 +1,2 @@
+{"ipc.server.read.threadpool.size": "1792", "ipc.client.rpc-timeout.ms": "67"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestUpdateBlockTailing#testStandbyAppendBlock

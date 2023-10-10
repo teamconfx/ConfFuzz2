@@ -1,0 +1,2 @@
+{"ipc.18.decay-scheduler.decay-factor": "-0.24803674221038818"}
+org.apache.hadoop.ipc.TestDecayRpcScheduler#testUsingWeightedTimeCostProviderNoRequests

@@ -1,0 +1,2 @@
+{"yarn.resourcemanager.ha.enabled": "true", "hive.server2.tez.queue.access.check": "true"}
+org.apache.hadoop.hive.ql.exec.tez.TestTezSessionPool#testReturn

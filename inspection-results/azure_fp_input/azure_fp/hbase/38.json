@@ -1,0 +1,2 @@
+{"hbase.lru.blockcache.hard.capacity.limit.factor": "-0.09135770797729492"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithCombinedBlockCache

@@ -1,0 +1,4 @@
+Configuration Parameter
+kylin.metrics.event-time-zone=GMT
+kylin.web.timezone=
+kylin.metrics.prefix=KYLIN

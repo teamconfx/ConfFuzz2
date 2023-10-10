@@ -1,0 +1,2 @@
+{"fs.file.impl": "org.apache.hadoop.fs.FileSystem", "hbase.wal.provider": "filesystem", "fs.file.impl.disable.cache": "true"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

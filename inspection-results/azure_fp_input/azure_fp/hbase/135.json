@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1080094463", "fs.file.impl": "org.apache.hadoop.fs.RawLocalFileSystem"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanAndReseek

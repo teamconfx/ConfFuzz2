@@ -1,0 +1,2 @@
+{"hive.hashtable.initialCapacity": "1088971126"}
+org.apache.hadoop.hive.ql.exec.vector.mapjoin.TestMapJoinOperator#testMultiKey3

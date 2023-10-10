@@ -1,0 +1,2 @@
+{"dfs.datanode.handler.count": "20290"}
+org.apache.hadoop.hdfs.TestHDFSFileSystemContract#testWriteReadAndDeleteOneBlock

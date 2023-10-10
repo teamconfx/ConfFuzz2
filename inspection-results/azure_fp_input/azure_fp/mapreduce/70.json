@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "2107284321", "io.file.buffer.size": "892717932"}
+org.apache.hadoop.mapreduce.lib.output.TestFileOutputCommitter#testRecoveryV1

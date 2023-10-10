@@ -1,0 +1,2 @@
+{"hadoop.security.saslproperties.resolver.class": "(unset)"}
+org.apache.hadoop.security.TestKDiag#testFileOutput

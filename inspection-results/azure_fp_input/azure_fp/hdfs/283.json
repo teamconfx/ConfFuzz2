@@ -1,0 +1,2 @@
+{"dfs.datanode.directoryscan.interval": "0"}
+org.apache.hadoop.hdfs.web.TestWebHDFSAcl#testDefaultAclRenamedDir

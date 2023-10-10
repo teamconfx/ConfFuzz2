@@ -1,0 +1,2 @@
+alluxio.job.meta.PlanInfoTest#compare
+alluxio.job.meta.PlanInfoTest#callback

@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1281409791"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanAndReseek

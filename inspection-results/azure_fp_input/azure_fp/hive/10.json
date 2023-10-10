@@ -1,0 +1,2 @@
+{"hive.execution.mode": "llap"}
+org.apache.hadoop.hive.ql.exec.TestOperators#testNoConditionalTaskSizeForLlap

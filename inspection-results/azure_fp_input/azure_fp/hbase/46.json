@@ -1,0 +1,2 @@
+{"hbase.bucketcache.extrafreefactor": "-0.501953125"}
+org.apache.hadoop.hbase.io.hfile.bucket.TestBucketCacheRefCnt#testInBucketCache

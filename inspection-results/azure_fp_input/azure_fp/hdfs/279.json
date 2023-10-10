@@ -1,0 +1,2 @@
+{"dfs.namenode.reencrypt.throttle.limit.updater.ratio": "0.00"}
+org.apache.hadoop.hdfs.TestEncryptionZones#testBasicOperations

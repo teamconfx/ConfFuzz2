@@ -1,0 +1,2 @@
+{"mapreduce.reduce.shuffle.notify.readerror": "false", "mapreduce.reduce.shuffle.maxfetchfailures": "0"}
+org.apache.hadoop.mapreduce.task.reduce.TestShuffleScheduler#TestSucceedAndFailedCopyMap

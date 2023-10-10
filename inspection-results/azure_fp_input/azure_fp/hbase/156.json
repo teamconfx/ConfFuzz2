@@ -1,0 +1,2 @@
+{"hbase.regionserver.logroll.multiplier": "0.0", "hbase.wal.provider": "multiwal"}
+org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted

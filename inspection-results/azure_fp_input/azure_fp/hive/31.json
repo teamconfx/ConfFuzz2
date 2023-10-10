@@ -1,0 +1,2 @@
+{"hive.hashtable.initialCapacity": "864262483", "hive.join.cache.size": "402112904"}
+org.apache.hadoop.hive.ql.exec.vector.mapjoin.TestMapJoinOperator#testString1

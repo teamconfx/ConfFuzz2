@@ -1,0 +1,4 @@
+alluxio.underfs.web.WebUnderFileSystemTest#isDirectory
+alluxio.underfs.web.WebUnderFileSystemTest#exists
+alluxio.underfs.web.WebUnderFileSystemTest#isFile
+alluxio.underfs.web.WebUnderFileSystemFactoryTest#factory

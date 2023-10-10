@@ -1,0 +1,2 @@
+{"hfile.index.block.min.entries": "0"}
+org.apache.hadoop.hbase.io.hfile.TestHFileInlineToRootChunkConversion#testWriteHFile

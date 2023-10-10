@@ -1,0 +1,4 @@
+alluxio.underfs.kodo.KodoUnderFileSystemFactoryTest#factory
+alluxio.underfs.kodo.KodoUnderFileSystemTest#renameOnServiceException
+alluxio.underfs.kodo.KodoUnderFileSystemTest#deleteNonRecursiveOnServiceException
+alluxio.underfs.kodo.KodoUnderFileSystemTest#deleteRecursiveOnServiceException

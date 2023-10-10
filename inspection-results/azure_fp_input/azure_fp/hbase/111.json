@@ -1,0 +1,2 @@
+{"hbase.regionserver.wal.sync.timeout": "3"}
+org.apache.hadoop.hbase.procedure2.store.region.TestHFileProcedurePrettyPrinter#test

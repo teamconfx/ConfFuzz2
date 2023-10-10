@@ -1,0 +1,2 @@
+{"hbase.lru.max.block.size": "726"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithAdaptiveLruCombinedBlockCache

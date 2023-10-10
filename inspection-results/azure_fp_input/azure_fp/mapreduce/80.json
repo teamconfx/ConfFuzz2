@@ -1,0 +1,2 @@
+{"map.sort.class": "org.apache.hadoop.util.MergeSort"}
+org.apache.hadoop.mapred.TestMapTask#testShufflePermissions

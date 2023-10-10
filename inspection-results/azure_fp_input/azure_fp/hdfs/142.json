@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1882163822"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestHASafeMode#testEnterSafeModeInANNShouldNotThrowNPE

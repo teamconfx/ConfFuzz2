@@ -1,0 +1,2 @@
+{"hbase.regionserver.wal.encryption": "true", "hbase.regionserver.hlog.writer.impl": "org.apache.hadoop.hbase.regionserver.wal.SecureProtobufLogWriter", "hbase.wal.provider": "filesystem"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

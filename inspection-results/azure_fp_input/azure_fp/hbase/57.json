@@ -1,0 +1,2 @@
+{"hbase.hregion.memstore.mslab.chunksize": "20585", "hbase.hregion.compacting.memstore.type": "eager"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

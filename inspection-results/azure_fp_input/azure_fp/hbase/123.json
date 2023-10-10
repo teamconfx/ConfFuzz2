@@ -1,0 +1,2 @@
+{"dfs.namenode.resource.checked.volumes.minimum": "575"}
+org.apache.hadoop.hbase.io.TestFileLink#testHDFSLinkReadDuringDelete

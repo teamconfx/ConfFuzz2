@@ -1,0 +1,2 @@
+{"zeppelin.run.mode": "k8s"}
+org.apache.zeppelin.notebook.NotebookTest#testClearParagraphOutput

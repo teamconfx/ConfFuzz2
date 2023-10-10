@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "914725398", "file.bytes-per-checksum": "1618296748"}
+org.apache.hadoop.io.file.tfile.TestTFileJClassComparatorByteArrays#testFailureWriterNotClosed

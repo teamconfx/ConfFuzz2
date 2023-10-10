@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "11"}
+org.apache.hadoop.mapred.TestLineRecordReader#testBzipWithMultibyteDelimiter

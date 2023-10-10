@@ -1,0 +1,2 @@
+{"fs.viewfs.rename.strategy": "SAME_FILESYSTEM_ACROSS_MOUNTPOINT"}
+org.apache.hadoop.fs.viewfs.TestViewFileSystemLocalFileSystem#testRenameAcrossMounts2

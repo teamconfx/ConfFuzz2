@@ -1,0 +1,2 @@
+{"dfs.webhdfs.oauth2.enabled": "true", "fs.webhdfs.impl.disable.cache": "true"}
+org.apache.hadoop.hdfs.web.TestWebHdfsUrl#testSimpleProxyAuthParamsInUrl

@@ -1,0 +1,2 @@
+{"file.stream-buffer-size": "2130640638", "file.bytes-per-checksum": "127941218", "io.file.buffer.size": "1995501885"}
+org.apache.hadoop.mapred.TestFileOutputCommitter#testCommitterWithDuplicatedCommitV2

@@ -1,0 +1,2 @@
+{"mapreduce.output.fileoutputformat.compress": "true", "io.file.buffer.size": "1510943493"}
+org.apache.hadoop.mapred.TestFileOutputCommitter#testRecoveryV1

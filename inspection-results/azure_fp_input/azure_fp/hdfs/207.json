@@ -1,0 +1,2 @@
+{"dfs.namenode.decommission.interval.testing": "0"}
+org.apache.hadoop.hdfs.web.TestWebHDFSXAttr#testRawXAttrs

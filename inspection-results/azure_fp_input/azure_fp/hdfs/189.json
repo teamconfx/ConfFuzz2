@@ -1,0 +1,2 @@
+{"dfs.ha.tail-edits.in-progress": "true"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestHASafeMode#testComplexFailoverIntoSafemode

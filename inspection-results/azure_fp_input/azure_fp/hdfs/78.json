@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "1343464601"}
+org.apache.hadoop.hdfs.TestDecommissionWithStripedBackoffMonitor#testFileSmallerThanOneStripe

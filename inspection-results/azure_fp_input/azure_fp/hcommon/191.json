@@ -1,0 +1,2 @@
+{"ipc.0.scheduler.priority.levels": "0"}
+org.apache.hadoop.ipc.TestAsyncIPC#testCallRetryCount

@@ -1,0 +1,2 @@
+{"mapreduce.output.fileoutputformat.compress": "true"}
+org.apache.hadoop.mapreduce.lib.output.TestFileOutputCommitter#testFailAbortV1

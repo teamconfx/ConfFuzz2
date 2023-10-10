@@ -1,0 +1,2 @@
+{"dfs.namenode.fs-limits.min-block-size": "1073791040"}
+org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes

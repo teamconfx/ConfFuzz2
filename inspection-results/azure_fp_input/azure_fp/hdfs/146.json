@@ -1,0 +1,2 @@
+{"dfs.datanode.cache.revocation.polling.ms": "12623751"}
+org.apache.hadoop.hdfs.server.sps.TestExternalStoragePolicySatisfier#testWhenStoragePolicySetToONESSD

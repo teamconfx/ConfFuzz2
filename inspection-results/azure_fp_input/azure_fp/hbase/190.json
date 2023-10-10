@@ -1,0 +1,2 @@
+{"hbase.blockcache.minblocksize": "1"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithTinyLfuCombinedBlockCache

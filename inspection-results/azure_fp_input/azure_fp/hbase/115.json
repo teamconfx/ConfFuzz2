@@ -1,0 +1,2 @@
+{"hbase.master.store.region.flush.size": "562"}
+org.apache.hadoop.hbase.procedure2.store.region.TestRegionProcedureStore#testCleanup

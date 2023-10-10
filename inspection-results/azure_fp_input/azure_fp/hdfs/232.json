@@ -1,0 +1,2 @@
+{"dfs.namenode.handler.count": "4631", "ipc.server.handler.queue.size": "304660495"}
+org.apache.hadoop.hdfs.server.namenode.TestFavoredNodesEndToEnd#testWhenSomeNodesAreNotGood

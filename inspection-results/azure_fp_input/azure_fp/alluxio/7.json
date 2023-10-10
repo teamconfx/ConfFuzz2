@@ -1,0 +1,2 @@
+{"alluxio.master.tieredstore.global.levels": "3"}
+alluxio.conf.InstancedConfigurationTest#wrongTieredStorageLevel

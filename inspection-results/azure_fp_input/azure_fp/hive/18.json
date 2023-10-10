@@ -1,0 +1,2 @@
+{"hive.txn.max.open.batch": "0"}
+org.apache.hadoop.hive.metastore.txn.TestTxnHandler#testValidTxnsNoneOpen

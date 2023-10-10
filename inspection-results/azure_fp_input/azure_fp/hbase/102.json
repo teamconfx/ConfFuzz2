@@ -1,0 +1,2 @@
+{"hbase.security.authentication": "kerberos", "hbase.client.ipc.pool.type": "thread-local"}
+org.apache.hadoop.hbase.ipc.TestBlockingIPC#testNoCodec

@@ -1,0 +1,2 @@
+{"dfs.datanode.du.reserved.disk": "605688075"}
+org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestFsVolumeList#testDfsReservedForDifferentStorageTypes

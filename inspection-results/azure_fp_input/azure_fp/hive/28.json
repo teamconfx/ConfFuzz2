@@ -1,0 +1,2 @@
+{"hive.hashtable.loadfactor": "-0.05092960596084595"}
+org.apache.hadoop.hive.ql.exec.vector.mapjoin.TestMapJoinOperator#testString1

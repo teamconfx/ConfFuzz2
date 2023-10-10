@@ -1,0 +1,2 @@
+{"hfile.onheap.block.cache.fixed.size": "4"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithAdaptiveLruCombinedBlockCache

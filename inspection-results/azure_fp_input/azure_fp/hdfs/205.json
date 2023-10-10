@@ -1,0 +1,2 @@
+{"ipc.server.read.connection-queue.size": "0"}
+org.apache.hadoop.hdfs.server.namenode.TestDiskspaceQuotaUpdate#testQuotaIssuesWhileCommitting

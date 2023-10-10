@@ -1,0 +1,2 @@
+{"hive.server2.tez.sessions.init.threads": "0"}
+org.apache.hadoop.hive.ql.exec.tez.TestWorkloadManager#testQueueing

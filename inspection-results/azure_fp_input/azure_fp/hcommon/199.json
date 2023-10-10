@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "1468015093", "hadoop.security.groups.cache.background.reload": "false", "io.file.buffer.size": "549004246"}
+org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsByteArrays#testFailureOpenRandomFile

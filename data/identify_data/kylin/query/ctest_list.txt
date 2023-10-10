@@ -1,0 +1,13 @@
+org.apache.kylin.query.util.QueryUtilTest#testLimitAndOffset
+org.apache.kylin.query.calcite.KylinRelDataTypeSystemTest#testIllegalDecimalType
+org.apache.kylin.query.aggregate.DimCountDistinctAggFuncTest#testBasic
+org.apache.kylin.query.util.QueryUtilTest#testKeywordDefaultDirtyHack
+org.apache.kylin.query.calcite.KylinRelDataTypeSystemTest#testLegalDecimalType
+org.apache.kylin.query.util.QueryUtilTest#testForceLimit
+org.apache.kylin.query.util.QueryUtilTest#testMassageSql
+org.apache.kylin.query.relnode.visitor.TupleFilterVisitorTest#testMergeToInClause2
+org.apache.kylin.query.relnode.visitor.TupleFilterVisitorTest#testMergeToInClause1
+org.apache.kylin.query.QueryConnectionTest#testGetConnection
+org.apache.kylin.query.aggregate.DimCountDistinctAggFuncTest#testThreshold
+org.apache.kylin.query.schema.OLAPTableTest#testCreateSqlType
+org.apache.kylin.query.routing.RealizationCheckTest#testRealizationCheck

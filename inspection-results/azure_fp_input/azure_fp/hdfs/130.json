@@ -1,0 +1,2 @@
+{"dfs.namenode.redundancy.interval.seconds": "260145153"}
+org.apache.hadoop.hdfs.server.datanode.TestDataNodeRollingUpgrade#testDatanodeRollingUpgradeWithRollback

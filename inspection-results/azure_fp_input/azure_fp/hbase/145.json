@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "2139095296", "hbase.rs.prefetchblocksonopen": "true"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanner

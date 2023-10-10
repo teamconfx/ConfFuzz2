@@ -1,0 +1,2 @@
+{"hadoop.http.authentication.type": "kerberos"}
+org.apache.hadoop.hdfs.qjournal.server.TestJournalNode#testJournal

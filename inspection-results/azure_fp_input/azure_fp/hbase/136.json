@@ -1,0 +1,2 @@
+{"hfile.format.version": "2"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanAndReseek

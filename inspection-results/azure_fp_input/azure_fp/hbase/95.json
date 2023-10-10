@@ -1,0 +1,2 @@
+{"hadoop.security.authentication": "kerberos"}
+org.apache.hadoop.hbase.ipc.TestBlockingIPC#testRTEDuringConnectionSetup

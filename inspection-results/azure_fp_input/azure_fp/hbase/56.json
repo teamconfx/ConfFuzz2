@@ -1,0 +1,2 @@
+{"hbase.regionserver.flush.policy": "org.apache.hadoop.hbase.regionserver.FlushLargeStoresPolicy"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

@@ -1,0 +1,2 @@
+{"hadoop.service.shutdown.timeout": "5807654s", "tfile.fs.output.buffer.size": "2130640638", "file.bytes-per-checksum": "2130640638"}
+org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsJClassComparatorByteArrays#testFailureBadCompressionCodec

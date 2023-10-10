@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1297292705", "tfile.fs.output.buffer.size": "2011763356"}
+org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsByteArrays#testNoDataEntry

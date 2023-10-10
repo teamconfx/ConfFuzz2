@@ -1,0 +1,2 @@
+{"hadoop.security.groups.cache.warn.after.ms": "26", "hadoop.security.dns.log-slow-lookups.threshold.ms": "550", "io.file.buffer.size": "768647010", "fs.local.block.size": "16", "hadoop.security.groups.cache.secs": "13252", "file.bytes-per-checksum": "1994476254"}
+org.apache.hadoop.fs.TestHarFileSystemBasics#testMakeQualifiedPath

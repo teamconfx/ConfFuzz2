@@ -1,0 +1,2 @@
+{"hive.acid.lockless.reads.enabled": "true"}
+org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testSingleReadTable

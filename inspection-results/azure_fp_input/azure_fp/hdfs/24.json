@@ -1,0 +1,2 @@
+{"dfs.namenode.resource.checked.volumes.minimum": "32702"}
+org.apache.hadoop.hdfs.server.namenode.TestReencryptionWithKMS#testRestartAfterReencrypt

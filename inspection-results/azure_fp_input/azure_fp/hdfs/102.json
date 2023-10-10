@@ -1,0 +1,2 @@
+{"dfs.block.access.token.enable": "true"}
+org.apache.hadoop.hdfs.server.datanode.TestBlockReplacement#testBlockMoveAcrossStorageInSameNode

@@ -1,0 +1,2 @@
+{"kylin.cube.rowkey.max-size": "0"}
+org.apache.kylin.cube.CubeManagerTest#testAutoMergeWithVolatileRange

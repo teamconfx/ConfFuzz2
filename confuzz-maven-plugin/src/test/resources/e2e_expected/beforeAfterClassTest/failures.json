@@ -1,0 +1,5 @@
+{
+  "testClass": "edu.illinois.fakefuzz.TestDebug",
+  "testMethod": "beforeAfterClassTest",
+  "debugResults": []
+}

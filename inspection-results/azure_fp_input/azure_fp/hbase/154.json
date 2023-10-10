@@ -1,0 +1,2 @@
+{"hbase.regionserver.hlog.async.writer.impl": "org.apache.hadoop.hbase.regionserver.wal.SecureAsyncProtobufLogWriter", "hbase.regionserver.wal.encryption": "true"}
+org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted

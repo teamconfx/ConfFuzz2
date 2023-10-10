@@ -1,0 +1,2 @@
+{"hadoop.security.kms.client.failover.max.retries": "445"}
+org.apache.hadoop.crypto.key.kms.TestLoadBalancingKMSClientProvider#testClientRetriesIfMaxAttemptsNotSet

@@ -1,0 +1,2 @@
+{"dfs.permissions.enabled": "false"}
+org.apache.hadoop.hdfs.server.namenode.snapshot.TestAclWithSnapshot#testOriginalAclEnforcedForSnapshotRootAfterRemoval

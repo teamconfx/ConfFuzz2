@@ -1,0 +1,2 @@
+{"zookeeper.session.timeout.localHBaseCluster": "3"}
+org.apache.hadoop.hbase.TestHBaseTestingUtility#testMiniZooKeeperWithMultipleServers

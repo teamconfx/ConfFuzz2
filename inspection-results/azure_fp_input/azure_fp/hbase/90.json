@@ -1,0 +1,2 @@
+{"hbase.lru.blockcache.hard.capacity.limit.factor": "-0.31298547983169556", "hbase.blockcache.use.external": "true"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testOffHeapBucketCacheConfig

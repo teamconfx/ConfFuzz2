@@ -1,0 +1,2 @@
+{"hbase.hregion.memstore.flush.size": "31"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithPadding

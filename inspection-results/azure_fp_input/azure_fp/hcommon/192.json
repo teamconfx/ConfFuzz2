@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "673498998", "tfile.fs.output.buffer.size": "1663818906", "file.stream-buffer-size": "1061107872", "io.file.buffer.size": "2029000572"}
+org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsByteArrays#testTwoDataEntries

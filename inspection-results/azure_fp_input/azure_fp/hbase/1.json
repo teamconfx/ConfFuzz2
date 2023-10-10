@@ -1,0 +1,2 @@
+{"hbase.zookeeper.property.maxSessionTimeout": "8"}
+org.apache.hadoop.hbase.security.token.TestZKSecretWatcherRefreshKeys#testRefreshKeys

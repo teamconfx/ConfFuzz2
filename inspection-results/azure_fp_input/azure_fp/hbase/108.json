@@ -1,0 +1,2 @@
+{"hbase.hstore.bytes.per.checksum": "27"}
+org.apache.hadoop.hbase.mob.TestMobFileCache#testMobFileCache

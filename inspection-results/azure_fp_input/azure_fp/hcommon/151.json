@@ -1,0 +1,2 @@
+{"ipc.7.decay-scheduler.decay-factor": "0.0"}
+org.apache.hadoop.ipc.TestDecayRpcScheduler#testParseThresholds

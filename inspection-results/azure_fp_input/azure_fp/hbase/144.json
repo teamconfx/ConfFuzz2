@@ -1,0 +1,2 @@
+{"hbase.writer.unified.encoded.blocksize.ratio": "0.032591819763183594", "hfile.index.block.max.size": "257"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanner

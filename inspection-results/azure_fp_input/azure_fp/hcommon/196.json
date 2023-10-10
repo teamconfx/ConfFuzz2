@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "2120604259", "hadoop.security.groups.cache.warn.after.ms": "89437953", "hadoop.security.groups.cache.secs": "4671", "io.file.buffer.size": "549151949", "fs.client.resolve.remote.symlinks": "false", "fs.creation.parallel.count": "5616"}
+org.apache.hadoop.security.alias.TestCredentialProviderFactory#testJksProvider

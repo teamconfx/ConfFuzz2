@@ -1,0 +1,2 @@
+{"hive.vectorized.adaptor.usage.mode": "none"}
+org.apache.hadoop.hive.ql.exec.vector.expressions.TestVectorArithmetic#testTimestampDate

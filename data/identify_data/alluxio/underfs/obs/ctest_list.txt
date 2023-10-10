@@ -1,0 +1,10 @@
+alluxio.underfs.obs.OBSUnderFileSystemTest#judgeDirectoryInBucket
+alluxio.underfs.obs.OBSUnderFileSystemFactoryTest#factory
+alluxio.underfs.obs.OBSInputStreamTest#skip
+alluxio.underfs.obs.OBSUnderFileSystemTest#deleteRecursiveOnServiceException
+alluxio.underfs.obs.OBSUnderFileSystemTest#renameOnServiceException
+alluxio.underfs.obs.OBSUnderFileSystemTest#nullObjectMetaTest
+alluxio.underfs.obs.OBSUnderFileSystemTest#deleteNonRecursiveOnServiceException
+alluxio.underfs.obs.OBSInputStreamTest#close
+alluxio.underfs.obs.OBSInputStreamTest#readByteArray
+alluxio.underfs.obs.OBSInputStreamTest#readInt

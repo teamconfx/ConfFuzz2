@@ -1,0 +1,2 @@
+{"zeppelin.spark.only_yarn_cluster": "true"}
+org.apache.zeppelin.interpreter.launcher.SparkInterpreterLauncherTest#testConnectTimeOut

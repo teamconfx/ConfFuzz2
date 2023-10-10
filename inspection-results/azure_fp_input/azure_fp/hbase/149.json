@@ -1,0 +1,2 @@
+{"dfs.datanode.failed.volumes.tolerated": "3860"}
+org.apache.hadoop.hbase.fs.TestBlockReorder#testBlockLocationReorder

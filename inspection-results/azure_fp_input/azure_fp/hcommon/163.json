@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "1590220916", "tfile.io.chunk.size": "1874986337", "io.file.buffer.size": "2030157053"}
+org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsStreams#testFailureCompressionNotWorking

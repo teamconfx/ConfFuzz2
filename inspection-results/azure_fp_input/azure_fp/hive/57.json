@@ -1,0 +1,2 @@
+{"hive.create.as.insert.only": "true", "hive.txn.valid.txns": "2:9223372036854775807::"}
+org.apache.hadoop.hive.ql.security.authorization.plugin.TestHivePrivilegeObjectOwnerNameAndType#testOwnerNames

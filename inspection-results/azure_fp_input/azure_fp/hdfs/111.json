@@ -1,0 +1,2 @@
+{"dfs.datanode.directoryscan.threads": "0"}
+org.apache.hadoop.hdfs.server.namenode.TestFileContextAcl#testRemoveAclMustBeOwnerOrSuper

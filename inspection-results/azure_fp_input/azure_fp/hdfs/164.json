@@ -1,0 +1,2 @@
+{"dfs.namenode.stale.datanode.minimum.interval": "34561", "dfs.namenode.read.considerStorageType": "true"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestSortLocatedBlock#testAviodStaleAndSlowDatanodes

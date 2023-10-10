@@ -1,0 +1,2 @@
+{"dfs.datanode.balance.bandwidthPerSec": "16777487ms"}
+org.apache.hadoop.hdfs.server.namenode.snapshot.TestSnapshotDeletion#testDeleteSnapshot1

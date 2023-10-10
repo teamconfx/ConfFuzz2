@@ -1,0 +1,2 @@
+{"fs.contract.rename-returns-false-if-dest-exists": "true"}
+org.apache.hadoop.fs.contract.localfs.TestLocalFSContractRename#testRenameFileOverExistingFile

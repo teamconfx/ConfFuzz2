@@ -1,0 +1,2 @@
+{"hive.execution.engine": "tez"}
+org.apache.hadoop.hive.ql.exec.TestUtilities#testgetDbTableName

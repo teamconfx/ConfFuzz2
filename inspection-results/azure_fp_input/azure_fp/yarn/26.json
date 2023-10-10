@@ -1,0 +1,2 @@
+{"fs.mockfs.impl.disable.cache": "true"}
+org.apache.hadoop.yarn.logaggregation.TestAggregatedLogDeletionService#testDeletion

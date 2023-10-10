@@ -1,0 +1,2 @@
+{"dfs.namenode.fs-limits.max-component-length": "2"}
+org.apache.hadoop.hdfs.web.TestWebHDFSAcl#testDefaultAclRenamedDir

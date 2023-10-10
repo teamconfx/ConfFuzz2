@@ -1,0 +1,2 @@
+{"hive.llap.daemon.num.executors": "841"}
+org.apache.hadoop.hive.ql.exec.TestOperators#testNoConditionalTaskSizeForLlap

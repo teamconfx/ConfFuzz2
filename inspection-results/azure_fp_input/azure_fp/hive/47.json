@@ -1,0 +1,2 @@
+{"hive.txn.read.locks": "false"}
+org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testSingleReadMultiPartition

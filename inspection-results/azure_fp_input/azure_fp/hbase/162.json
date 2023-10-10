@@ -1,0 +1,2 @@
+{"hbase.regionserver.wal.codec": "org.apache.hadoop.hbase.codec.MessageCodec", "hbase.wal.provider": "filesystem"}
+org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted

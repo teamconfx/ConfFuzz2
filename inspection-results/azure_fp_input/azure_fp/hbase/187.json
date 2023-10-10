@@ -1,0 +1,2 @@
+{"hbase.regionserver.wal.enablecompression": "true", "hbase.regionserver.wal.value.enablecompression": "true"}
+org.apache.hadoop.hbase.procedure2.store.region.TestWALProcedurePrettyPrinter#test

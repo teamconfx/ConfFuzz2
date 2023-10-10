@@ -1,0 +1,7 @@
+org.apache.hadoop.hive.hbase.TestHBaseQueries#testRollbackDoesNotDeleteOriginTableWhenCTLTFails
+org.apache.hadoop.hive.hbase.TestHBaseStorageHandler#testGetUriForAuthEmptyTableDefaultHostPort
+org.apache.hadoop.hive.hbase.TestHBaseStorageHandler#testGetUriForAuthWithTableAndColumns
+org.apache.hadoop.hive.hbase.TestHBaseStorageHandler#testGetUriForAuthWithTable
+org.apache.hadoop.hive.hbase.TestHBaseStorageHandler#testGetUriForAuthEmptyTable
+org.apache.hadoop.hive.hbase.TestHBaseStorageHandler#testHbaseConfigIsAddedToJobConf
+org.apache.hadoop.hive.hbase.TestHBaseStorageHandler#testGetUriForAuthWithTableAndEncodedColumns

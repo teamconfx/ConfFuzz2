@@ -1,0 +1,2 @@
+{"hfile.block.cache.size": "3.7550926208496094E-6"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testOffHeapBucketCacheConfig

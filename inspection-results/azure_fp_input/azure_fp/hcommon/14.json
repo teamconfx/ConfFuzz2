@@ -1,0 +1,2 @@
+{"hadoop.prometheus.endpoint.enabled": "true"}
+org.apache.hadoop.http.TestSSLHttpServerConfigs#testKeyStoreSetupWithoutPassword

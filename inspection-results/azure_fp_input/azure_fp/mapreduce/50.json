@@ -1,0 +1,2 @@
+{"mapreduce.job.sharedcache.mode": "archives", "mapreduce.framework.name": "yarn", "yarn.sharedcache.enabled": "true"}
+org.apache.hadoop.mapreduce.TestJobResourceUploader#testErasureCodingDisabled

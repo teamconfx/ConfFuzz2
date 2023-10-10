@@ -1,0 +1,2 @@
+alluxio.table.under.hive.HiveDatabaseTest#create
+alluxio.table.under.hive.HiveDatabaseTest#createWithProps

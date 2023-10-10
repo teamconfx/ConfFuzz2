@@ -1,0 +1,2 @@
+{"dfs.qjournal.start-segment.timeout.ms": "2"}
+org.apache.hadoop.hdfs.qjournal.client.TestQuorumJournalManager#testCrashAtBeginningOfSegment

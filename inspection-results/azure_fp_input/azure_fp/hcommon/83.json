@@ -1,0 +1,2 @@
+{"hadoop.security.groups.cache.background.reload.threads": "0"}
+org.apache.hadoop.security.TestGroupsCaching#testEntriesExpireIfBackgroundRefreshFails

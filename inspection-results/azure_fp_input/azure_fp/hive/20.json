@@ -1,0 +1,2 @@
+{"hive.server2.wm.worker.threads": "0"}
+org.apache.hadoop.hive.ql.exec.tez.TestWorkloadManager#testDestroyAndReturn

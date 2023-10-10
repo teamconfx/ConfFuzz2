@@ -1,0 +1,2 @@
+{"dfs.datanode.max.locked.memory": "13840"}
+org.apache.hadoop.hbase.fs.TestBlockReorder#testBlockLocationReorder

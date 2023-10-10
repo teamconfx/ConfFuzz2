@@ -1,0 +1,2 @@
+{"dfs.namenode.safemode.min.datanodes": "9528"}
+org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes

@@ -1,0 +1,2 @@
+{"alluxio.worker.register.lease.enabled": "false"}
+alluxio.conf.InstancedConfigurationTest#templatedKeyDependency

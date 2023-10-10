@@ -1,0 +1,2 @@
+{"dfs.namenode.max.extra.edits.segments.retained": "0"}
+org.apache.hadoop.hdfs.server.namenode.TestNNStorageRetentionManager#testRetainExtraLogs

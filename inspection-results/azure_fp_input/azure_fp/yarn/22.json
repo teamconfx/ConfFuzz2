@@ -1,0 +1,2 @@
+{"yarn.log-aggregation.file-formats": "TFile,IFile"}
+org.apache.hadoop.yarn.logaggregation.TestAggregatedLogsBlock#testBlockContainsPortNumForUnavailableAppLog

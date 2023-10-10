@@ -1,0 +1,2 @@
+{"yarn.node-labels.configuration-type": "delegated-centralized"}
+org.apache.hadoop.yarn.nodelabels.TestCommonNodeLabelsManager#testAddReplaceRemoveLabelsOnNodes

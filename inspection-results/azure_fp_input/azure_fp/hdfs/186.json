@@ -1,0 +1,2 @@
+{"dfs.namenode.fs-limits.min-block-size": "269651711"}
+org.apache.hadoop.hdfs.web.TestWebHDFSAcl#testRemoveAclEntriesMustBeOwnerOrSuper

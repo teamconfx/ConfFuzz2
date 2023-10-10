@@ -1,0 +1,2 @@
+{"hive.service.metrics.file.frequency": "3ms"}
+org.apache.hadoop.hive.ql.txn.compactor.TestCompactionMetrics#testWorkingAgeMetricsOrder

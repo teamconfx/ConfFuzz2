@@ -1,0 +1,15 @@
+exceptions@;@times
+java.lang.AssertionError@;@12
+org.junit.ComparisonFailure@;@3
+java.lang.RuntimeException@;@4
+java.lang.OutOfMemoryError@;@6
+java.lang.NegativeArraySizeException@;@3
+java.lang.NullPointerException@;@3
+java.io.IOException@;@1
+java.lang.IllegalArgumentException@;@6
+java.io.FileNotFoundException@;@3
+java.lang.IllegalStateException@;@2
+org.junit.internal.runners.model.MultipleFailureException@;@1
+java.nio.file.AccessDeniedException@;@1
+java.security.GeneralSecurityException@;@1
+java.lang.Exception@;@1

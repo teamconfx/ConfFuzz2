@@ -1,0 +1,2 @@
+{"hbase.wal.regiongrouping.strategy": "identify", "hbase.wal.provider": "multiwal"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

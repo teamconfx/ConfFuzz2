@@ -1,0 +1,2 @@
+{"hbase.data.umask.enable": "true", "fs.file.impl": "org.apache.hadoop.fs.RawLocalFileSystem", "hbase.data.umask": "572"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanner

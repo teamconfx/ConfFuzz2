@@ -1,0 +1,2 @@
+{"test.protocol.hosts": "10.222.0.0/16,10.113.221.221"}
+org.apache.hadoop.security.authorize.TestServiceAuthorization#testDefaultMachineList

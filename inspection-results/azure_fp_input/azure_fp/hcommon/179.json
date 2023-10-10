@@ -1,0 +1,2 @@
+{"fs.defaultFS": "file:///"}
+org.apache.hadoop.fs.TestFileContextResolveAfs#testFileContextResolveAfs

@@ -1,0 +1,2 @@
+{"hbase.data.umask.enable": "true", "hbase.data.umask": "773"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanAndReseek

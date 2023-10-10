@@ -1,0 +1,2 @@
+{"dfs.namenode.blocks.per.postponedblocks.rescan": "237418903", "dfs.namenode.handler.count": "1214110464"}
+org.apache.hadoop.hdfs.server.datanode.TestDataNodeRollingUpgrade#testDatanodeRollingUpgradeWithRollback

@@ -1,0 +1,2 @@
+{"dfs.namenode.support.allow.format": "false"}
+org.apache.hadoop.hbase.io.TestFileLink#testHDFSLinkReadDuringDelete

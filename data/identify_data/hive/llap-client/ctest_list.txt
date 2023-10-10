@@ -1,0 +1,2 @@
+org.apache.hadoop.hive.llap.registry.impl.TestLlapZookeeperRegistryImpl#testRegister
+org.apache.hadoop.hive.llap.registry.impl.TestLlapZookeeperRegistryImpl#testUpdate

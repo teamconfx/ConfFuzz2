@@ -1,0 +1,2 @@
+{"dfs.qjournal.new-epoch.timeout.ms": "3"}
+org.apache.hadoop.hdfs.qjournal.client.TestQuorumJournalManager#testCrashAtBeginningOfSegment

@@ -1,0 +1,2 @@
+{"hive.hook.proto.rollover-interval": "0ms"}
+org.apache.hadoop.hive.ql.hooks.TestHiveProtoLoggingHook#testPostEventLog

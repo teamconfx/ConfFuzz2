@@ -1,0 +1,2 @@
+{"dfs.encrypt.data.overwrite.downstream.derived.qop": "true"}
+org.apache.hadoop.hdfs.server.datanode.TestDataXceiverBackwardsCompat#testBackwardsCompat

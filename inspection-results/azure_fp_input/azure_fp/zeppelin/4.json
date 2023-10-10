@@ -1,0 +1,2 @@
+{"zeppelin.interpreter.connection.poolsize": "0"}
+org.apache.zeppelin.interpreter.recovery.LocalRecoveryStorageTest#testSingleInterpreterProcess

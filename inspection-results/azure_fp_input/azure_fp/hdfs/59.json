@@ -1,0 +1,2 @@
+{"dfs.namenode.reject-unresolved-dn-topology-mapping": "true"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestBlockManager#testSafeModeIBR

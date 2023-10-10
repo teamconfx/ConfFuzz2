@@ -1,0 +1,2 @@
+{"hadoop.security.token.service.use_ip": "true", "file.stream-buffer-size": "29678", "file.bytes-per-checksum": "1170309022"}
+org.apache.hadoop.io.TestSequenceFile#testZlibSequenceFile

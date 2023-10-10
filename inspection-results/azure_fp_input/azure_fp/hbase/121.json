@@ -1,0 +1,2 @@
+{"hbase.client.ipc.pool.size": "1260679811"}
+org.apache.hadoop.hbase.ipc.TestBlockingIPC#testAsyncEcho

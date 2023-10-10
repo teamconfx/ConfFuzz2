@@ -1,0 +1,2 @@
+{"dfs.namenode.gc.time.monitor.observation.window.ms": "945099495m"}
+org.apache.hadoop.hdfs.TestHDFSFileSystemContract#testWriteReadAndDeleteHalfABlock

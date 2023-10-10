@@ -1,0 +1,2 @@
+{"alluxio.test.mode": "false"}
+alluxio.conf.InstancedConfigurationTest#propertyTestModeEqualsTrue

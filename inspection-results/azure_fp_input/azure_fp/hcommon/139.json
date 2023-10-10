@@ -1,0 +1,2 @@
+{"io.compression.codec.lz4.buffersize": "0"}
+org.apache.hadoop.io.compress.TestCodec#testLz4Codec

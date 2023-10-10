@@ -1,0 +1,2 @@
+{"tfile.io.chunk.size": "2"}
+org.apache.hadoop.io.file.tfile.TestTFileStreams#testOneEntryUnknownLength

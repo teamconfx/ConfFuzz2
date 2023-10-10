@@ -1,0 +1,2 @@
+{"dfs.namenode.fs-limits.max-blocks-per-file": "11"}
+org.apache.hadoop.hbase.io.TestFileLink#testHDFSLinkReadDuringRename

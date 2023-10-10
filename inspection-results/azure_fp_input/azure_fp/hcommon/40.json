@@ -1,0 +1,2 @@
+{"fs.viewfs.enable.inner.cache": "false"}
+org.apache.hadoop.fs.viewfs.TestViewFileSystemLocalFileSystem#testChildrenFileSystemLeak

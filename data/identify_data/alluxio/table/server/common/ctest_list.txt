@@ -1,0 +1,17 @@
+alluxio.table.common.udb.PathTranslatorTest#trailingSeparator
+alluxio.table.common.CatalogPathUtilsTest#tablePathInternal
+alluxio.table.common.udb.PathTranslatorTest#alluxioUriPurePath
+alluxio.table.common.udb.PathTranslatorTest#samePathDifferentUfs
+alluxio.table.common.udb.PathTranslatorTest#singleSubDirectory
+alluxio.table.common.udb.PathTranslatorTest#multipleSubdir
+alluxio.table.common.udb.PathTranslatorTest#noMapping
+alluxio.table.common.udb.PathTranslatorTest#bypassedUfsUri
+alluxio.table.common.udb.PathTranslatorTest#noMappingSingleLevel
+alluxio.table.common.udb.PathTranslatorTest#bypassedUfsPath
+alluxio.table.common.udb.PathTranslatorTest#alluxioUriWithSchemeAndAuthority
+alluxio.table.common.udb.PathTranslatorTest#alluxioUriWithSchemeOnly
+alluxio.table.common.udb.PathTranslatorTest#exactMatch
+alluxio.table.common.udb.PathTranslatorTest#deepestMatch
+alluxio.table.common.CatalogPathUtilsTest#tablePathUdb
+alluxio.table.common.udb.PathTranslatorTest#prefixBoundaryWithinPathComponent
+alluxio.table.common.udb.PathTranslatorTest#noSchemeUfs

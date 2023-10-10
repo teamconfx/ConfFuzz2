@@ -1,0 +1,2 @@
+{"dfs.permissions.superusergroup": "xqvbuyuvsroaflwbypttiapduwerdudtjucklrlsgmjjnphlilzxxftdclxocdxaghpdkswibaggroup"}
+org.apache.hadoop.hdfs.server.namenode.TestFileContextAcl#testRemoveAclEntriesMustBeOwnerOrSuper

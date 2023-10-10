@@ -1,0 +1,2 @@
+{"hive.max.open.txns": "0"}
+org.apache.hadoop.hive.metastore.txn.TestTxnHandler#testAbortTxn

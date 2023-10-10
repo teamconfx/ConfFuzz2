@@ -1,0 +1,2 @@
+{"hive.trigger.validation.interval": "0ms"}
+org.apache.hadoop.hive.ql.exec.tez.TestTezSessionPool#testReturn

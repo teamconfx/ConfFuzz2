@@ -1,0 +1,2 @@
+{"fs.file.impl.disable.cache": "true"}
+org.apache.hadoop.fs.shell.TestPathData#testWithDirStringAndConf

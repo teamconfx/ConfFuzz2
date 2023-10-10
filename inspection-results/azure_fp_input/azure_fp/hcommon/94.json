@@ -1,0 +1,2 @@
+{"ipc.15.weighted-cost.lockexclusive": "800", "ipc.15.weighted-cost.lockfree": "2944", "ipc.15.weighted-cost.lockshared": "149"}
+org.apache.hadoop.ipc.TestDecayRpcScheduler#testUsingWeightedTimeCostProvider

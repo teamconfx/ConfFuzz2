@@ -1,0 +1,2 @@
+{"dfs.client.read.shortcircuit": "true"}
+org.apache.hadoop.hdfs.TestDecommission#testNodeUsageAfterDecommissioned

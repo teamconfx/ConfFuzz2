@@ -1,0 +1,2 @@
+{"tfile.fs.output.buffer.size": "1656136169", "tfile.io.chunk.size": "1671047254"}
+org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsStreams#testFailureCompressionNotWorking

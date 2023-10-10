@@ -1,0 +1,2 @@
+{"dfs.namenode.quota.init-threads": "2146307"}
+org.apache.hadoop.hbase.fs.TestBlockReorder#testBlockLocationReorder

@@ -1,0 +1,2 @@
+{"hfile.block.cache.policy": "IndexOnlyLRU", "hbase.lru.blockcache.single.percentage": "0.015625178813934326"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testBucketCacheConfigL1L2Setup

@@ -1,0 +1,2 @@
+{"fs.trash.interval": "788", "dfs.client.domain.socket.data.traffic": "true"}
+org.apache.hadoop.hdfs.server.datanode.TestDataNodeHotSwapVolumes#testFullBlockReportAfterRemovingVolumes

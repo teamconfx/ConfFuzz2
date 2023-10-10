@@ -1,0 +1,2 @@
+{"hive.compactor.request.queue": "859896072"}
+org.apache.hadoop.hive.ql.txn.compactor.TestInitiator#nothing

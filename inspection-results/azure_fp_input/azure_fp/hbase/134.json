@@ -1,0 +1,2 @@
+{"dfs.encrypt.data.transfer": "true"}
+org.apache.hadoop.hbase.io.TestFileLink#testHDFSLinkReadDuringRename

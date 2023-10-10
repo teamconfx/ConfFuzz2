@@ -1,0 +1,2 @@
+{"hbase.bucketcache.single.factor": "0.12512218952178955"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithAdaptiveLruCombinedBlockCache

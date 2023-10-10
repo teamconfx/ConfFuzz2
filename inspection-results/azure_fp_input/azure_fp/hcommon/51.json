@@ -1,0 +1,2 @@
+{"hadoop.http.max.threads": "0"}
+org.apache.hadoop.http.TestHttpServerLifecycle#testCreatedServerIsNotAlive

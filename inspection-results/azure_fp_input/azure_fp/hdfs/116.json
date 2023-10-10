@@ -1,0 +1,2 @@
+{"dfs.namenode.decommission.blocks.per.interval": "0"}
+org.apache.hadoop.hdfs.TestEncryptionZones#testGetTrashRoots

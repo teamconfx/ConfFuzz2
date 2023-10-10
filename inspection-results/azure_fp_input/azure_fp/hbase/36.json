@@ -1,0 +1,2 @@
+{"hbase.bucketcache.writer.threads": "2134259249"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithCombinedBlockCache

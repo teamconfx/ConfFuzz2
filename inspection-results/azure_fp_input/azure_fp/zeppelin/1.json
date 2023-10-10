@@ -1,0 +1,2 @@
+{"zeppelin.recovery.storage.class": "org.apache.zeppelin.interpreter.recovery.FileSystemRecoveryStorage"}
+org.apache.zeppelin.notebook.repo.NotebookRepoSyncTest#testSyncUpdateMain

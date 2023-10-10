@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1619820365", "file.stream-buffer-size": "869676245"}
+org.apache.hadoop.mapreduce.lib.output.TestFileOutputCommitter#testProgressDuringMerge

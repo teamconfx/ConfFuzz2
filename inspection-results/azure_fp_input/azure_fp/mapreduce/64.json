@@ -1,0 +1,2 @@
+{"mapreduce.input.linerecordreader.line.maxlength": "63"}
+org.apache.hadoop.mapreduce.lib.input.TestLineRecordReader#testRecordSpanningMultipleSplits

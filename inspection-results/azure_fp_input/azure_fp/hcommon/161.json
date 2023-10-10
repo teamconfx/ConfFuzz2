@@ -1,0 +1,2 @@
+{"fs.contract.supports-hsync": "true"}
+org.apache.hadoop.fs.contract.localfs.TestLocalFSContractCreate#testSyncable

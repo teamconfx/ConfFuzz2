@@ -1,0 +1,2 @@
+{"hfile.block.cache.size": "-0.4617142677307129"}
+org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testLruBlockCache

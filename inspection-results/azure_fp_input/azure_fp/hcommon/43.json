@@ -1,0 +1,2 @@
+{"hadoop.security.kms.client.encrypted.key.cache.size": "11", "hadoop.security.kms.client.encrypted.key.cache.low-watermark": "0.056f"}
+org.apache.hadoop.crypto.key.kms.TestLoadBalancingKMSClientProvider#testTokenServiceCreationWithUriFormat

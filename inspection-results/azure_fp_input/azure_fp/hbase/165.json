@@ -1,0 +1,2 @@
+{"hbase.blockcache.use.external": "true"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testBucketCacheConfigL1L2Setup

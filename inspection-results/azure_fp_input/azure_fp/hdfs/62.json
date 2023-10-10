@@ -1,0 +1,2 @@
+{"dfs.blocksize": "912"}
+org.apache.hadoop.hdfs.TestSetTimes#testGetBlockLocationsOnlyUsesReadLock

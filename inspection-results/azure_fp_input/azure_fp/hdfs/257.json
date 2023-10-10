@@ -1,0 +1,2 @@
+{"dfs.replication.max": "12072", "dfs.namenode.replication.min": "9096"}
+org.apache.hadoop.hdfs.TestDecommission#testDecommission2

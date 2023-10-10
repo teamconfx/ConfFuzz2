@@ -1,0 +1,2 @@
+{"hive.vectorized.groupby.flush.percent": "0.2543964982032776"}
+org.apache.hadoop.hive.ql.exec.vector.TestVectorGroupByOperator#testRollupAggregationWithBufferReuse

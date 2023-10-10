@@ -1,0 +1,2 @@
+{"hbase.wal.provider": "filesystem", "fs.local.block.size": "9", "hbase.regionserver.logroll.multiplier": "2.44140625E-4"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

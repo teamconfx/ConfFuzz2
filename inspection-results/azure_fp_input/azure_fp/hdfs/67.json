@@ -1,0 +1,2 @@
+{"dfs.blocksize": "767"}
+org.apache.hadoop.hdfs.web.TestWebHDFSAcl#testGetAclStatusRequiresTraverseOrSuper

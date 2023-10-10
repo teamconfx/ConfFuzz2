@@ -1,0 +1,2 @@
+{"dfs.heartbeat.interval": "1949799550"}
+org.apache.hadoop.hdfs.server.datanode.TestDataNodeRollingUpgrade#testDatanodeRollingUpgradeWithRollback

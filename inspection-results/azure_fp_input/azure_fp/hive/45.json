@@ -1,0 +1,2 @@
+{"hive.metastore.fastpath": "true", "hive.direct.sql.max.query.length": "515261603"}
+org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testHeartbeaterReplicationTxn

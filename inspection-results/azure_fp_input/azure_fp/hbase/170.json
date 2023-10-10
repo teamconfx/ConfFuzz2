@@ -1,0 +1,2 @@
+{"hfile.block.cache.policy": "TinyLFU"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testCacheConfigDefaultLRUBlockCache

@@ -1,0 +1,2 @@
+{"dfs.client.failover.resolve-needed.testcluster": "true", "hadoop.security.token.service.use_ip": "false"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestObserverReadProxyProvider#testObserverToActive

@@ -1,0 +1,2 @@
+{"hadoop.http.idle_timeout.ms": "1"}
+org.apache.hadoop.http.TestHttpServer#testDisabledAuthorizationOfDefaultServlets

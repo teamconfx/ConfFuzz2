@@ -1,0 +1,2 @@
+{"yarn.resourcemanager.ha.enabled": "true"}
+org.apache.hadoop.mapreduce.security.TestTokenCache#testBinaryCredentialsWithScheme

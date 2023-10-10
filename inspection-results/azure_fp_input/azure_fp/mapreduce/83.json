@@ -1,0 +1,2 @@
+{"mapreduce.job.reduces": "509103844"}
+org.apache.hadoop.mapred.TestMapTask#testShufflePermissions

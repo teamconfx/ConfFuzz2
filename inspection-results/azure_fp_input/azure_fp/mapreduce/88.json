@@ -1,0 +1,2 @@
+{"hadoop.security.groups.cache.secs": "933", "file.bytes-per-checksum": "1946709147"}
+org.apache.hadoop.mapreduce.lib.input.TestLineRecordReader#testUncompressedInputDefaultDelimiterPosValue

@@ -1,0 +1,2 @@
+{"dfs.namenode.handler.count": "23784", "dfs.datanode.disk.check.timeout": "097ms"}
+org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes

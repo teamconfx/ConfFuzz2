@@ -1,0 +1,2 @@
+{"mapreduce.job.encrypted-intermediate-data": "true"}
+org.apache.hadoop.mapreduce.task.reduce.TestFetcher#testInterruptInMemory

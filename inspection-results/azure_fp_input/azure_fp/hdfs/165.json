@@ -1,0 +1,2 @@
+{"dfs.namenode.stale.datanode.minimum.interval": "2202", "dfs.heartbeat.interval": "501"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestSortLocatedBlock#testAviodStaleAndSlowDatanodes

@@ -1,0 +1,2 @@
+{"dfs.client.failover.random.order": "true", "dfs.client.failover.connection.retries.on.timeouts": "767"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestObserverReadProxyProvider#testUnreachableObserverWithMultiple

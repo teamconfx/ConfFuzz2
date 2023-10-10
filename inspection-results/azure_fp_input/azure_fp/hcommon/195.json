@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1598297754", "file.bytes-per-checksum": "1055522361"}
+org.apache.hadoop.fs.TestLocalFSCopyFromLocal#testSourceIsFileAndDestinationIsDirectory

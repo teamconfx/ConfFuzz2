@@ -1,0 +1,2 @@
+{"hadoop.security.crypto.buffer.size": "3"}
+org.apache.hadoop.crypto.TestCryptoOutputStreamClosing#testOutputStreamNotClosing

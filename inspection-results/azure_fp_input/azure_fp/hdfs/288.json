@@ -1,0 +1,2 @@
+{"dfs.client.read.shortcircuit": "true", "fs.trash.interval": "26960"}
+org.apache.hadoop.hdfs.TestCrcCorruption#testCrcCorruption

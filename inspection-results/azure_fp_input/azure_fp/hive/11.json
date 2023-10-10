@@ -1,0 +1,2 @@
+{"hive.compactor.initiator.failed.compacts.threshold": "16"}
+org.apache.hadoop.hive.metastore.txn.TestCompactionTxnHandler#testPurgeCompactionHistory

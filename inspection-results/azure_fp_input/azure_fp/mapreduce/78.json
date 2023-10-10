@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "573644353", "io.file.buffer.size": "629810338", "file.stream-buffer-size": "1750545930"}
+org.apache.hadoop.mapred.TestFileOutputCommitter#testRecoveryUpgradeV1V2

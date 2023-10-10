@@ -1,0 +1,2 @@
+{"hbase.hregion.memstore.mslab.max.allocation": "1090584577"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithPadding

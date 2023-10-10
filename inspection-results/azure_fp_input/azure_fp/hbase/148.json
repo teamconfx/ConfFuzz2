@@ -1,0 +1,2 @@
+{"dfs.namenode.fs-limits.min-block-size": "1124632625"}
+org.apache.hadoop.hbase.fs.TestBlockReorder#testBlockLocationReorder

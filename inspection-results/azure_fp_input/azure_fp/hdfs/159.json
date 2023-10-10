@@ -1,0 +1,2 @@
+{"fs.trash.interval": "13018"}
+org.apache.hadoop.hdfs.TestFileLengthOnClusterRestart#testFileLengthWithHSyncAndClusterRestartWithOutDNsRegister

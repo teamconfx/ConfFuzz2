@@ -1,0 +1,2 @@
+{"hbase.regionserver.wal.codec": "org.apache.hadoop.hbase.codec.KeyValueCodecWithTags"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

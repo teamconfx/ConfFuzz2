@@ -1,0 +1,2 @@
+{"dfs.namenode.gc.time.monitor.observation.window.ms": "6403d"}
+org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes

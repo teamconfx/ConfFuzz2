@@ -1,0 +1,2 @@
+{"dfs.qjournal.get-journal-state.timeout.ms": "3"}
+org.apache.hadoop.hdfs.qjournal.client.TestQuorumJournalManager#testChangeWritersLogsInSync

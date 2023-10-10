@@ -1,0 +1,2 @@
+{"hbase.ipc.server.callqueue.codel.interval": "23148"}
+org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testCoDelScheduling

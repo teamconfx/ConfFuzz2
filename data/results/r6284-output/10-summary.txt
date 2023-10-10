@@ -1,0 +1,207 @@
+
+======================== Proj: hadoophadoopyarncommon ========================
+Total number of test fuzzed: 332
+Total number of failures: 81
+Total number of unique failures: 47
+The type of exceptions and their occurrence times:
+    java.lang.AssertionError: 12
+    org.junit.ComparisonFailure: 3
+    java.lang.RuntimeException: 4
+    java.lang.OutOfMemoryError: 6
+    java.lang.NegativeArraySizeException: 3
+    java.lang.NullPointerException: 3
+    java.io.IOException: 1
+    java.lang.IllegalArgumentException: 6
+    java.io.FileNotFoundException: 3
+    java.lang.IllegalStateException: 2
+    org.junit.internal.runners.model.MultipleFailureException: 1
+    java.nio.file.AccessDeniedException: 1
+    java.security.GeneralSecurityException: 1
+    java.lang.Exception: 1
+=====================================================================
+
+
+======================== Proj: zeppelinzeppelinzengine ========================
+Total number of test fuzzed: 172
+Total number of failures: 43
+Total number of unique failures: 12
+The type of exceptions and their occurrence times:
+    java.lang.NullPointerException: 2
+    java.lang.AssertionError: 4
+    java.lang.NoSuchMethodError: 1
+    java.io.IOException: 2
+    java.lang.RuntimeException: 1
+    org.junit.ComparisonFailure: 2
+=====================================================================
+
+
+======================== Proj: hadoophadoopcommon ========================
+Total number of test fuzzed: 993
+Total number of failures: 1352
+Total number of unique failures: 133
+The type of exceptions and their occurrence times:
+    java.lang.IllegalArgumentException: 25
+    java.lang.OutOfMemoryError: 15
+    java.lang.NegativeArraySizeException: 7
+    java.io.IOException: 8
+    java.io.FileNotFoundException: 7
+    java.lang.IllegalStateException: 11
+    java.lang.NullPointerException: 6
+    org.junit.internal.runners.model.MultipleFailureException: 5
+    java.lang.AssertionError: 28
+    java.lang.ClassCastException: 2
+    java.security.GeneralSecurityException: 1
+    java.lang.NoSuchMethodError: 1
+    org.junit.ComparisonFailure: 3
+    java.nio.file.AccessDeniedException: 3
+    org.junit.runners.model.TestTimedOutException: 4
+    java.lang.ArrayIndexOutOfBoundsException: 3
+    java.lang.RuntimeException: 1
+    java.net.SocketException: 3
+=====================================================================
+
+
+======================== Proj: hiveql ========================
+Total number of test fuzzed: 895
+Total number of failures: 394
+Total number of unique failures: 62
+The type of exceptions and their occurrence times:
+    java.lang.IllegalArgumentException: 13
+    java.io.FileNotFoundException: 3
+    java.io.IOException: 3
+    java.lang.AssertionError: 15
+    java.lang.RuntimeException: 8
+    java.lang.NumberFormatException: 6
+    org.junit.internal.runners.model.MultipleFailureException: 3
+    java.lang.NegativeArraySizeException: 2
+    java.lang.OutOfMemoryError: 1
+    java.lang.IllegalStateException: 3
+    java.net.ConnectException: 1
+    java.lang.NullPointerException: 3
+    java.sql.SQLException: 1
+=====================================================================
+
+
+======================== Proj: hadoophadoopmapreduceclientcore ========================
+Total number of test fuzzed: 228
+Total number of failures: 260
+Total number of unique failures: 72
+The type of exceptions and their occurrence times:
+    java.lang.IllegalArgumentException: 6
+    java.lang.ClassNotFoundException: 4
+    java.lang.AssertionError: 14
+    java.io.FileNotFoundException: 3
+    java.lang.OutOfMemoryError: 7
+    java.lang.IllegalStateException: 6
+    java.io.IOException: 8
+    java.lang.RuntimeException: 4
+    java.lang.NoClassDefFoundError: 2
+    java.lang.UnsupportedOperationException: 2
+    java.lang.ArrayIndexOutOfBoundsException: 3
+    java.lang.NegativeArraySizeException: 1
+    java.nio.file.AccessDeniedException: 1
+    org.junit.ComparisonFailure: 3
+    org.junit.internal.runners.model.MultipleFailureException: 5
+    java.lang.NullPointerException: 2
+    java.lang.Exception: 1
+=====================================================================
+
+
+======================== Proj: flinkflinkcore ========================
+Total number of test fuzzed: 201
+Total number of failures: 75
+Total number of unique failures: 23
+The type of exceptions and their occurrence times:
+    java.lang.UnsupportedOperationException: 2
+    java.lang.AssertionError: 14
+    java.lang.IllegalArgumentException: 2
+    java.lang.IllegalStateException: 3
+    java.lang.RuntimeException: 1
+    org.junit.ComparisonFailure: 1
+=====================================================================
+
+
+======================== Proj: hadoophadoophdfs ========================
+Total number of test fuzzed: 818
+Total number of failures: 2252
+Total number of unique failures: 181
+The type of exceptions and their occurrence times:
+    java.io.IOException: 34
+    java.lang.IllegalArgumentException: 50
+    java.lang.OutOfMemoryError: 21
+    java.lang.AssertionError: 16
+    org.junit.ComparisonFailure: 4
+    java.io.InterruptedIOException: 1
+    java.util.concurrent.TimeoutException: 2
+    java.lang.NegativeArraySizeException: 2
+    org.junit.internal.runners.model.MultipleFailureException: 6
+    java.lang.IllegalStateException: 9
+    org.junit.runners.model.TestTimedOutException: 2
+    java.io.FileNotFoundException: 8
+    java.net.ConnectException: 6
+    java.lang.IndexOutOfBoundsException: 1
+    java.lang.ClassNotFoundException: 3
+    java.lang.NoSuchMethodError: 10
+    java.net.UnknownHostException: 1
+    java.lang.NullPointerException: 3
+    java.lang.IncompatibleClassChangeError: 1
+    java.security.GeneralSecurityException: 1
+=====================================================================
+
+
+======================== Proj: hbasehbaseserver ========================
+Total number of test fuzzed: 389
+Total number of failures: 331
+Total number of unique failures: 101
+The type of exceptions and their occurrence times:
+    java.lang.NullPointerException: 4
+    java.lang.AssertionError: 18
+    java.lang.IllegalArgumentException: 19
+    java.lang.OutOfMemoryError: 15
+    java.lang.ClassNotFoundException: 2
+    java.lang.InterruptedException: 13
+    java.lang.InstantiationException: 2
+    org.junit.internal.runners.model.MultipleFailureException: 5
+    java.lang.RuntimeException: 7
+    java.lang.NegativeArraySizeException: 3
+    java.lang.IllegalStateException: 2
+    java.lang.ArithmeticException: 2
+    java.nio.channels.ClosedByInterruptException: 3
+    java.io.IOException: 2
+    java.lang.IncompatibleClassChangeError: 1
+    java.lang.ClassCastException: 1
+    java.io.FileNotFoundException: 2
+=====================================================================
+
+
+======================== Proj: kylincorecube ========================
+Total number of test fuzzed: 105
+Total number of failures: 97
+Total number of unique failures: 18
+The type of exceptions and their occurrence times:
+    java.lang.IllegalStateException: 4
+    java.lang.NoSuchMethodException: 1
+    java.lang.AssertionError: 8
+    java.lang.NullPointerException: 2
+    java.lang.ClassCastException: 1
+    org.junit.ComparisonFailure: 1
+    java.lang.IllegalArgumentException: 1
+=====================================================================
+
+
+======================== Proj: alluxiocommon ========================
+Total number of test fuzzed: 136
+Total number of failures: 51
+Total number of unique failures: 21
+The type of exceptions and their occurrence times:
+    java.lang.IllegalArgumentException: 3
+    java.lang.AssertionError: 7
+    java.lang.UnsupportedOperationException: 2
+    java.lang.IllegalStateException: 2
+    java.lang.reflect.InaccessibleObjectException: 1
+    java.lang.RuntimeException: 3
+    org.junit.ComparisonFailure: 1
+    java.lang.Exception: 1
+    java.net.BindException: 1
+=====================================================================
+

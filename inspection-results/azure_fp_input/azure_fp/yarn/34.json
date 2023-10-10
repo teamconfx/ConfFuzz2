@@ -1,0 +1,2 @@
+{"yarn.timeline-service.entity-group-fs-store.with-user-dir": "true"}
+org.apache.hadoop.yarn.client.api.impl.TestTimelineClientForATS1_5#testPostEntities

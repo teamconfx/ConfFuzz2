@@ -1,0 +1,2 @@
+{"yarn.resourcemanager.configuration.provider-class": "org.apache.hadoop.yarn.FileSystemBasedConfigurationProvider"}
+org.apache.hadoop.yarn.api.TestResourcePBImpl#testResourceTags

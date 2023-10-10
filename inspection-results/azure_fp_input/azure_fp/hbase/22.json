@@ -1,0 +1,2 @@
+{"file.stream-buffer-size": "1851357576", "io.file.buffer.size": "810329372"}
+org.apache.hadoop.hbase.io.hfile.TestHFileInlineToRootChunkConversion#testWriteHFile

@@ -1,0 +1,2 @@
+{"hive.hook.proto.file.per.event": "true", "hive.hook.proto.rollover-interval": "7ms"}
+org.apache.hadoop.hive.ql.hooks.TestHiveProtoLoggingHook#testPartitionedTable

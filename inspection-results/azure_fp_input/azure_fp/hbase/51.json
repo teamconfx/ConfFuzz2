@@ -1,0 +1,2 @@
+{"hbase.regionserver.logroll.multiplier": "2.44140625E-4", "hbase.regionserver.hlog.blocksize": "95"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithPadding

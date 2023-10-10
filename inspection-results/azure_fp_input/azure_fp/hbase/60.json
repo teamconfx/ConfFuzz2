@@ -1,0 +1,2 @@
+{"hbase.regionserver.memstore.class": "org.apache.hadoop.hbase.regionserver.DefaultMemStore", "hbase.hregion.compacting.memstore.type": "basic"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

@@ -1,0 +1,3 @@
+alluxio.proxy.s3.S3RestServiceHandlerTest#testDeleteObjectResp
+alluxio.proxy.s3.S3RestServiceHandlerTest#testDeleteObjectReq
+alluxio.proxy.s3.S3RestServiceHandlerTest#userFromAuthorization

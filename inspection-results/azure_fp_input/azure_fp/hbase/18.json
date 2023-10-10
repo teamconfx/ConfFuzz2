@@ -1,0 +1,2 @@
+{"fs.file.impl": "org.apache.hadoop.fs.FileSystem", "fs.file.impl.disable.cache": "true"}
+org.apache.hadoop.hbase.io.hfile.TestHFileInlineToRootChunkConversion#testWriteHFile

@@ -1,0 +1,2 @@
+{"kylin.storage.hbase.namespace": "MYSPACE"}
+org.apache.kylin.cube.CubeManagerTest#testGetCubeNameWithNamespace

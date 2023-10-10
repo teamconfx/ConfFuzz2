@@ -1,0 +1,2 @@
+{"test.hbase.zookeeper.property.clientPort": "1127407909"}
+org.apache.hadoop.hbase.security.token.TestZKSecretWatcherRefreshKeys#testRefreshKeys

@@ -1,0 +1,2 @@
+{"hbase.ipc.server.max.callqueue.length": "0"}
+org.apache.hadoop.hbase.ipc.TestFifoRpcScheduler#testCallQueueInfo

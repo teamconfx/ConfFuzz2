@@ -1,0 +1,2 @@
+{"dfs.namenode.resource.checked.volumes.minimum": "767"}
+org.apache.hadoop.hdfs.server.namenode.TestStorageRestore#testStorageRestoreFailure

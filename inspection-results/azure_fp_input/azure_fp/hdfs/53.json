@@ -1,0 +1,2 @@
+{"ipc.server.reuseaddr": "false"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestHASafeMode#testOpenFileWhenNNAndClientCrashAfterAddBlock

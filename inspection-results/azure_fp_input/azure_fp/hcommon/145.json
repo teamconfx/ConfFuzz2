@@ -1,0 +1,2 @@
+{"ipc.server.handler.queue.size": "0"}
+org.apache.hadoop.ha.TestZKFailoverController#testAutoFailoverOnLostZKSession

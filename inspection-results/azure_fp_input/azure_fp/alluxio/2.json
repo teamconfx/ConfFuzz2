@@ -1,0 +1,2 @@
+{"alluxio.master.rpc.port": "63"}
+alluxio.conf.InstancedConfigurationTest#twoVariableSubstitution

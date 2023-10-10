@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "999024494", "file.stream-buffer-size": "1929190316"}
+org.apache.hadoop.hbase.io.hfile.TestHFileInlineToRootChunkConversion#testWriteHFile

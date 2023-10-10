@@ -1,0 +1,2 @@
+{"hfile.block.cache.policy": "IndexOnlyLRU", "hbase.blockcache.use.external": "true"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testOffHeapBucketCacheConfig

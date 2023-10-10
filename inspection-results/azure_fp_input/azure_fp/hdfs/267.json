@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1"}
+org.apache.hadoop.hdfs.TestAppendDifferentChecksum#testAlgoSwitchRandomized

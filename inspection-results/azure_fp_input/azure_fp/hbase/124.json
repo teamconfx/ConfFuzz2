@@ -1,0 +1,2 @@
+{"dfs.bytes-per-checksum": "11"}
+org.apache.hadoop.hbase.io.TestFileLink#testHDFSLinkReadDuringDelete

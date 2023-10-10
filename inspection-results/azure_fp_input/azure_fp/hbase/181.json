@@ -1,0 +1,2 @@
+{"hbase.ipc.max.request.size": "209"}
+org.apache.hadoop.hbase.ipc.TestBlockingIPC#testTimeout

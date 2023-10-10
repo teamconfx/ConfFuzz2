@@ -1,0 +1,2 @@
+{"hive.vectorized.groupby.maxentries": "0", "hive.groupby.mapaggr.checkinterval": "0"}
+org.apache.hadoop.hive.ql.exec.vector.TestVectorGroupByOperator#testDoubleValueTypeMaxOneKey

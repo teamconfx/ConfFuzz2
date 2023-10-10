@@ -1,0 +1,2 @@
+{"hfile.block.cache.policy": "AdaptiveLRU"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testOffHeapBucketCacheConfig

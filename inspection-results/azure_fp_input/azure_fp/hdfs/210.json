@@ -1,0 +1,2 @@
+{"dfs.namenode.posix.acl.inheritance.enabled": "false"}
+org.apache.hadoop.hdfs.server.namenode.TestFileContextAcl#testDefaultAclNewFileIntermediate

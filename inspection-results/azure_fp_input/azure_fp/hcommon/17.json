@@ -1,0 +1,2 @@
+{"hadoop.security.groups.cache.background.reload.threads": "0", "hadoop.security.groups.cache.background.reload": "true"}
+org.apache.hadoop.security.TestGroupFallback#testNetgroupShell

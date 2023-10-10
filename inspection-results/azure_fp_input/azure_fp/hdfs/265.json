@@ -1,0 +1,2 @@
+{"dfs.namenode.enable.retrycache": "false"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestRetryCacheWithHA#testRename

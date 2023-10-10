@@ -1,0 +1,2 @@
+{"hive.test.mode": "true", "hive.cbo.enable": "false"}
+org.apache.hadoop.hive.ql.hooks.TestQueryHooks#testAllQueryLifeTimeHooks

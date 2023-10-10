@@ -1,0 +1,4 @@
+alluxio.underfs.gcs.GCSUnderFileSystemFactoryTest#factory
+alluxio.underfs.gcs.GCSUnderFileSystemTest#deleteNonRecursiveOnServiceException
+alluxio.underfs.gcs.GCSUnderFileSystemTest#deleteRecursiveOnServiceException
+alluxio.underfs.gcs.GCSUnderFileSystemTest#renameOnServiceException

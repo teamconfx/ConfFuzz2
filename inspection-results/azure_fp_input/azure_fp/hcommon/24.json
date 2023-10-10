@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "28", "io.file.buffer.size": "24"}
+org.apache.hadoop.fs.contract.localfs.TestLocalFSContractStreamIOStatistics#testWriteByteArrays

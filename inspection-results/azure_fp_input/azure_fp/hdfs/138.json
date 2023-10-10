@@ -1,0 +1,2 @@
+{"dfs.namenode.edits.dir": "file:/home/ctestfuzz/fuzz-hadoop/hadoop-hdfs-project/hadoop-hdfs/target/test/data/dfs/name-0-3,file:/home/ctestfuzz/fuzz-hadoop/hadoop-hdfs-project/hadoop-hdfs/target/test/data/dfs/name-0-4"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestHarFileSystemWithHA#testHarUriWithHaUriWithNoPort

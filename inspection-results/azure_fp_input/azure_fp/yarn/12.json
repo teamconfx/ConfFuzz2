@@ -1,0 +1,2 @@
+{"yarn.http.policy": "HTTPS_ONLY"}
+org.apache.hadoop.yarn.webapp.TestWebApp#testDefaultRoutes

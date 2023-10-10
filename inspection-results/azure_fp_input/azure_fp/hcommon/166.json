@@ -1,0 +1,2 @@
+{"hadoop.security.group.mapping.ldap.connection.timeout.ms": "0", "hadoop.security.group.mapping.ldap.ssl": "true"}
+org.apache.hadoop.security.TestLdapGroupsMapping#testLdapReadTimeout

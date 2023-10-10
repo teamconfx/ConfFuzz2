@@ -1,0 +1,2 @@
+{"hadoop.http.authentication.simple.anonymous.allowed": "false"}
+org.apache.hadoop.hdfs.qjournal.client.TestQuorumJournalManager#testSelectViaRpcAfterJNRestart

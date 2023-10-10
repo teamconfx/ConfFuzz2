@@ -1,0 +1,2 @@
+{"mapreduce.framework.name": "classic"}
+org.apache.hadoop.mapreduce.security.TestTokenCache#testGetTokensForNamenodes

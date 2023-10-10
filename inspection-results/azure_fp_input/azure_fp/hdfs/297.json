@@ -1,0 +1,2 @@
+{"dfs.replication": "9793", "dfs.namenode.gc.time.monitor.sleep.interval.ms": "54ms", "dfs.replication.max": "16354", "dfs.namenode.gc.time.monitor.observation.window.ms": "11414395d"}
+org.apache.hadoop.hdfs.server.namenode.TestValidateConfigurationSettings#testThatMatchingRPCandHttpPortsThrowException

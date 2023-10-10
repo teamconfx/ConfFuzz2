@@ -1,0 +1,2 @@
+{"dfs.datanode.handler.count": "0"}
+org.apache.hadoop.hbase.io.TestFileLink#testHDFSLinkReadDuringDelete

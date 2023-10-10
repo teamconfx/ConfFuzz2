@@ -1,0 +1,2 @@
+{"hive.create.as.insert.only": "true"}
+org.apache.hadoop.hive.ql.security.authorization.plugin.TestHivePrivilegeObjectOwnerNameAndType#testOwnerNames

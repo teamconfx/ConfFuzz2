@@ -1,0 +1,2 @@
+{"kylin.cube.max-segment-merge.span": "514"}
+org.apache.kylin.cube.CubeManagerTest#testAutoMergeWithVolatileRange

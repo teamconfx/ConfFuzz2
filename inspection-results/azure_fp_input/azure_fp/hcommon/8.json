@@ -1,0 +1,2 @@
+{"ipc.client.bind.wildcard.addr": "true"}
+org.apache.hadoop.ipc.TestIPC#testProxyUserBinding

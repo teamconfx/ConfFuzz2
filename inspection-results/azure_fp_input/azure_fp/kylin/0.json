@@ -1,0 +1,2 @@
+{"kylin.metadata.check-copy-on-write": "true"}
+org.apache.kylin.cube.CubeManagerConcurrencyTest#test

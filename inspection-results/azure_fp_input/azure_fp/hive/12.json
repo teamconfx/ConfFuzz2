@@ -1,0 +1,2 @@
+{"hive.service.metrics.file.frequency": "0ms"}
+org.apache.hadoop.hive.ql.TestCompileLock#testParallelCompilationWithUnboundedQuota

@@ -1,0 +1,2 @@
+{"hive.metastore.fastpath": "true", "datanucleus.schema.validateTables": "true", "datanucleus.schema.validateColumns": "true"}
+org.apache.hadoop.hive.ql.security.authorization.plugin.TestHivePrivilegeObjectOwnerNameAndType#testOwnerNames

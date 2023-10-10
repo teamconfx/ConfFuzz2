@@ -1,0 +1,2 @@
+{"dfs.namenode.fs-limits.max-xattrs-per-inode": "1"}
+org.apache.hadoop.hdfs.server.namenode.snapshot.TestXAttrWithSnapshot#testXAttrForSnapshotRootAfterChange

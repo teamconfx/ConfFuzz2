@@ -1,0 +1,2 @@
+{"dfs.namenode.audit.log.token.tracking.id": "true"}
+org.apache.hadoop.hdfs.server.namenode.TestFsck#testFsck

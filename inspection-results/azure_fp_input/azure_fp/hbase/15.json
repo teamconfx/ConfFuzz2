@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "2139160578"}
+org.apache.hadoop.hbase.io.hfile.TestHFileInlineToRootChunkConversion#testWriteHFile

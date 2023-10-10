@@ -1,0 +1,2 @@
+{"dfs.qjm.operations.timeout": "49933592h"}
+org.apache.hadoop.hdfs.qjournal.client.TestQuorumJournalManager#testReaderWhileAnotherWrites

@@ -1,0 +1,2 @@
+{"dfs.client.block.write.locateFollowingBlock.initial.delay.ms": "343185681"}
+org.apache.hadoop.hdfs.TestHDFSFileSystemContract#testWriteReadAndDeleteHalfABlock

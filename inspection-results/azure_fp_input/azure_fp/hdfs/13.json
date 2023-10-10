@@ -1,0 +1,2 @@
+{"dfs.namenode.edits.dir.minimum": "22342"}
+org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes

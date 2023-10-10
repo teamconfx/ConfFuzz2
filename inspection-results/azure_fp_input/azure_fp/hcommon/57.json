@@ -1,0 +1,2 @@
+{"hadoop.security.groups.cache.secs": "1692468687", "file.stream-buffer-size": "1814434393", "io.file.buffer.size": "1912783984", "tfile.fs.output.buffer.size": "1095186718", "file.bytes-per-checksum": "157740965"}
+org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsByteArrays#testNoDataEntry

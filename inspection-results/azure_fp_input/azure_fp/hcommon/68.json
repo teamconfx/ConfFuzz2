@@ -1,0 +1,2 @@
+{"hadoop.service.shutdown.timeout": "0m"}
+org.apache.hadoop.util.TestShutdownHookManager#testDuplicateRegistration

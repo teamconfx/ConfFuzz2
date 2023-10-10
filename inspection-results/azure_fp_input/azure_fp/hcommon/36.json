@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "1564020886", "fs.file.impl.disable.cache": "true"}
+org.apache.hadoop.fs.TestLocalFileSystem#testStripFragmentFromPath

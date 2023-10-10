@@ -1,0 +1,2 @@
+{"dfs.namenode.avoid.read.stale.datanode": "true", "dfs.namenode.stale.datanode.minimum.interval": "170992440", "dfs.namenode.stale.datanode.interval": "5", "dfs.heartbeat.interval": "2134810349"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestDatanodeManager#testgoodScript

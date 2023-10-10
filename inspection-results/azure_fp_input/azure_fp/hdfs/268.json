@@ -1,0 +1,2 @@
+{"dfs.datanode.socket.write.timeout": "0"}
+org.apache.hadoop.hdfs.TestAppendDifferentChecksum#testAlgoSwitchRandomized

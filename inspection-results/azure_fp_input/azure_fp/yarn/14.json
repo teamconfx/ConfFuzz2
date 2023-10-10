@@ -1,0 +1,2 @@
+{"yarn.http.policy": "HTTPS_ONLY", "hadoop.http.selector.count": "1797431237"}
+org.apache.hadoop.yarn.webapp.TestWebApp#testDefaultRoutes

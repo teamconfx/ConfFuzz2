@@ -1,0 +1,2 @@
+{"dfs.encrypt.data.transfer.cipher.suites": "AES"}
+org.apache.hadoop.hdfs.TestMultipleNNPortQOP#testAuxiliaryPortSendingQOP

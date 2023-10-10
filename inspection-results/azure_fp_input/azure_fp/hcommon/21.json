@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "1487083736", "file.stream-buffer-size": "574366222"}
+org.apache.hadoop.fs.contract.localfs.TestLocalFSContractRename#testRenameFileOverExistingFile

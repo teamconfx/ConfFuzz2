@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "199442032", "file.stream-buffer-size": "840237319", "io.file.buffer.size": "1357361240"}
+org.apache.hadoop.fs.TestChecksumFileSystem#testTruncatedChecksum

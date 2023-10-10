@@ -1,0 +1,2 @@
+{"hbase.wal.provider": "filesystem", "hbase.regionserver.hlog.syncer.count": "2147483390"}
+org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted

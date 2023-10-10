@@ -1,0 +1,2 @@
+{"fs.file.impl": "org.apache.hadoop.fs.RawLocalFileSystem"}
+org.apache.hadoop.hbase.tool.coprocessor.CoprocessorValidatorTest#testTableMissingJar

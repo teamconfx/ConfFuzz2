@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "796477728", "file.stream-buffer-size": "394561934", "mapreduce.output.fileoutputformat.compress": "true"}
+org.apache.hadoop.mapred.TestFileOutputCommitter#testCommitterWithFailureV2

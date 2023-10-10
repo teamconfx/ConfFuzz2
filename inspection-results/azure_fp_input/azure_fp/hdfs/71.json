@@ -1,0 +1,2 @@
+{"dfs.bytes-per-checksum": "899"}
+org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestFsDatasetImpl#testMoveBlockFailure

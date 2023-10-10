@@ -1,0 +1,2 @@
+{"foo.weighted-cost.lockexclusive": "1253819356"}
+org.apache.hadoop.ipc.TestWeightedTimeCostProvider#testGetCostConfiguredWeights

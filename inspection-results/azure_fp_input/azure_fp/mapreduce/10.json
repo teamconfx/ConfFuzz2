@@ -1,0 +1,2 @@
+{"mapreduce.reduce.shuffle.merge.percent": "-0.212793231010437"}
+org.apache.hadoop.mapreduce.task.reduce.TestMergeManager#testOnDiskMerger

@@ -1,0 +1,2 @@
+{"dfs.namenode.invalidate.work.pct.per.iteration": "0.0f"}
+org.apache.hadoop.hdfs.TestErasureCodingMultipleRacks#testSkewedRack2

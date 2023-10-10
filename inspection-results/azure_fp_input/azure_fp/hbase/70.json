@@ -1,0 +1,2 @@
+{"hbase.lru.blockcache.acceptable.factor": "0.332261323928833", "hfile.block.cache.policy": "IndexOnlyLRU"}
+org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testLruBlockCache

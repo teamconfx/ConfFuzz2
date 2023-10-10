@@ -1,0 +1,2 @@
+{"fs.getspaceused.classname": "org.apache.hadoop.fs.DFCachingGetSpaceUsed", "dfs.datanode.fsdataset.volume.choosing.policy": "org.apache.hadoop.hdfs.server.datanode.fsdataset.AvailableSpaceVolumeChoosingPolicy"}
+org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestFsDatasetImpl#testRemoveOneVolume

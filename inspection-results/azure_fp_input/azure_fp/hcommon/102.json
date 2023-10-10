@@ -1,0 +1,2 @@
+{"hadoop.security.group.mapping.ldap.num.attempts": "0"}
+org.apache.hadoop.security.TestRuleBasedLdapGroupsMapping#testGetGroupsInvalidRule

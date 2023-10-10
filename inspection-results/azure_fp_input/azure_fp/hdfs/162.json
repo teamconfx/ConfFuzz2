@@ -1,0 +1,2 @@
+{"dfs.heartbeat.interval": "29697", "dfs.namenode.read.considerStorageType": "true"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestSortLocatedBlock#testAviodStaleAndSlowDatanodes

@@ -1,0 +1,2 @@
+{"hadoop.shell.missing.defaultFs.warning": "true"}
+org.apache.hadoop.fs.TestFsShellReturnCode#testRmForceWithNonexistentGlob

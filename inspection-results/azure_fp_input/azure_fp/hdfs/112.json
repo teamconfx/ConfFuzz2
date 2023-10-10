@@ -1,0 +1,2 @@
+{"ipc.maximum.response.length": "255", "dfs.permissions.superusergroup": "twvwarwwnedrdkduojshmvppbazyrprfawszwflzrbnrvrormovqvxltqxshdeuqomnolpstasdpzxsnktrgfbgroup"}
+org.apache.hadoop.hdfs.server.namenode.TestFileContextAcl#testRemoveAclMustBeOwnerOrSuper

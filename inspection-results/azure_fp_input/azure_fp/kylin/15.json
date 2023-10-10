@@ -1,0 +1,2 @@
+{"kylin.cube.rowkey.max-size": "8"}
+org.apache.kylin.cube.CubeSpecificConfigTest#testPropertiesHotLoad

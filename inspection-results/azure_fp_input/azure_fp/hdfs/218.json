@@ -1,0 +1,2 @@
+{"dfs.namenode.stale.datanode.interval": "17", "dfs.heartbeat.interval": "0"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestDatanodeManager#testGetBlockLocationConsiderLoad

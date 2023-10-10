@@ -1,0 +1,231 @@
+Bug ID	Bug Type	Project	Config	Test	Github Issue	Seriousness	Report Status	Report URL	Note	Report Status
+Bug-1	OOM	HDFS	ipc.server.read.threadpool.size=1535931645	org.apache.hadoop.hdfs.server.namenode.metrics.TestNameNodeMetrics#testExcessBlocks	https://github.com/xlab-uiuc/confuzz/issues/144		Opened	https://issues.apache.org/jira/browse/HDFS-17096	Server.java:1240	Reported
+Bug-2	OOM	HDFS	file.bytes-per-checksum=1666845779	org.apache.hadoop.hdfs.server.namenode.metrics.TestNameNodeMetrics#testExcessBlocks	https://github.com/xlab-uiuc/confuzz/issues/145		Opened	https://issues.apache.org/jira/browse/HDFS-17095	FSOutputSummer	Reported
+Bug-3	OOM	HCommon	decay-scheduler.metrics.top.user.count=1419140791	org.apache.hadoop.ipc.TestDecayRpcScheduler#testNPEatInitialization	https://github.com/xlab-uiuc/confuzz/issues/140		Opened	https://issues.apache.org/jira/browse/HADOOP-18822		Reported
+Bug-4	OOM	Hive	hive.hashtable.initialCapacity=1223962862	org.apache.hadoop.hive.ql.exec.vector.mapjoin.TestMapJoinOperator#testMultiKey3	https://github.com/xlab-uiuc/confuzz/issues/129		Opened	https://issues.apache.org/jira/browse/HIVE-27520		Reported
+Bug-5	OOM	Hive	hive.join.cache.size=700528591	org.apache.hadoop.hive.ql.exec.vector.mapjoin.TestMapJoinOperator#testString1					RowContainer.java:141	
+Bug-6	OOM	HDFS	dfs.namenode.blockreport.queue.size=1807890864	org.apache.hadoop.hdfs.server.namenode.TestNameNodeHttpServerXFrame#testSecondaryNameNodeXFrame	https://github.com/xlab-uiuc/confuzz/issues/142		Opened	https://issues.apache.org/jira/browse/HDFS-17097	BlockManager.java:5243	Reported
+Bug-7	OOM	HCommon	io.file.buffer.size=2112001717	org.apache.hadoop.fs.contract.rawlocal.TestRawlocalContractRename#testRenameFileUnderFile	https://github.com/xlab-uiuc/confuzz/issues/139		Opened	https://issues.apache.org/jira/browse/HADOOP-18804	BufferedIOStatisticsOutputStream	Reported
+Bug-8	OOM	HCommon	file.stream-buffer-size=2079242445	org.apache.hadoop.fs.viewfs.TestViewFileSystemWithAuthorityLocalFileSystem#testInternalGetAllStoragePolicies					BufferedIOStatisticsOutputStream	
+Bug-9	OOM	HCommon	ipc.0.faircallqueue.priority-levels=1251599569	org.apache.hadoop.ipc.TestRPC#testProtocolUserPriority					DecayRpcScheduler.java:377	
+Bug-10	OOM	HCommon	hadoop.http.acceptor.count=1294280440	org.apache.hadoop.hdfs.server.namenode.TestNameNodeHttpServerXFrame#testSecondaryNameNodeXFrame					HttpServer2:534	
+Bug-11	OOM	HCommon	hadoop.http.selector.count=1211811174	org.apache.hadoop.hdfs.server.namenode.TestNameNodeHttpServerXFrame#testSecondaryNameNodeXFrame					HttpServer2:534	
+Bug-12	OOM	HDFS	dfs.namenode.blocks.per.postponedblocks.rescan=1081415152	org.apache.hadoop.fs.TestSWebHdfsFileContextMainOperations#testCreateFlagCreateExistingFile					BlockManager.java:484	
+Bug-13	OOM	Yarn	fs.har.metadatacache.entries=2111044450	org.apache.hadoop.yarn.logaggregation.TestAggregatedLogsBlock#testAggregatedLogsBlockHar						
+Bug-14	OOM	Yarn	tfile.io.chunk.size=2144912649	org.apache.hadoop.yarn.logaggregation.TestAggregatedLogsBlock#testAggregatedLogsBlock						
+Bug-15	OOM	Yarn	yarn.timeline-service.client.internal-attempt-dir-cache-size=1459573338	org.apache.hadoop.yarn.client.api.impl.TestTimelineClientForATS1_5#testPutDomain						
+Bug-16	OOM	Yarn	tfile.fs.input.buffer.size=2147483647	org.apache.hadoop.yarn.logaggregation.TestAggregatedLogFormat#testZeroLengthLog	SAME VALUE FOR -16 and -17?? SOUNDS UNLIKELY/SUSPICIOUS					
+Bug-17	OOM	Yarn	tfile.fs.output.buffer.size=2147483647	org.apache.hadoop.yarn.logaggregation.TestAggregatedLogsBlock#testNoLogs						
+Bug-19	OOM	HBase	hbase.ipc.server.max.callqueue.length=1882271521	org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testPluggableRpcQueueWireUpWithoutFastPathExecutor						
+Bug-20	OOM	MapReduce	mapreduce.output.fileoutputformat.compress.codec=org.apache.hadoop.io.compress.SnappyCodec mapreduce.output.fileoutputformat.compress=true io.compression.codec.snappy.buffersize=1056703541	org.apache.hadoop.mapred.TestFileOutputCommitter#testMapFileOutputCommitterV1	https://github.com/xlab-uiuc/confuzz/issues/151					
+Bug-21	OOM	HCommon	hadoop.security.crypto.buffer.size=1667467171	org.apache.hadoop.crypto.TestCryptoOutputStreamClosing#testOutputStreamNotClosing						
+Bug-22	OOM	HBase	hbase.ipc.server.callqueue.read.ratio=20870 hbase.ipc.server.max.callqueue.length=1882271521	org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testPluggableRpcQueueWireUpWithoutFastPathExecutor						
+Bug-23	OOM	HBase	{"hbase.blockcache.minblocksize": "1"}	org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithTinyLfuCombinedBlockCache					TinyLfuBlockCache.java:97	
+Bug-24	OOM	HBase	hbase.blockcache.minblocksize=0	org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testLruBlockCache					LruBlockCache.java:514	
+Bug-25	OOM	HBase	hfile.onheap.block.cache.fixed.size=974, hbase.blockcache.minblocksize=0 hfile.block.cache.policy=TinyLFU	org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testLruBlockCache					TinyLfuBlockCache.java:196	
+Bug-26	OOM	HBase	hbase.bucketcache.writer.threads=1369950487	org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testBucketCache						
+Bug-27	OOM	MapReduce	mapreduce.output.fileoutputformat.compress=true io.file.buffer.size=1510943493	org.apache.hadoop.mapred.TestFileOutputCommitter#testRecoveryV1						
+Bug-28	OOM	HDFS	dfs.namenode.handler.count=1077903103	org.apache.hadoop.fs.contract.hdfs.TestHDFSContractMultipartUploader#testCompleteEmptyUploadID					Server.java:3418	
+Bug-29	OOM	HDFS	dfs.namenode.reencrypt.batch.size=1640153608	org.apache.hadoop.hdfs.TestEncryptionZones#testRootDirEZTrash					ReencryptionHandler.java:488	
+Bug-30	OOM	HDFS	dfs.namenode.gc.time.monitor.observation.window.ms=31961985d dfs.namenode.gc.time.monitor.sleep.interval.ms=8197723s	org.apache.hadoop.hdfs.client.impl.TestBlockReaderLocal#testStatisticsForErasureCodingRead						
+Bug-31	OOM	HDFS	dfs.datanode.fsdatasetcache.max.threads.per.volume=0	org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestFsDatasetImpl#testTransferAndNativeCopyMetrics	 					
+Bug-32	OOM	HDFS	dfs.bytes-per-checksum=2130640638	org.apache.hadoop.hdfs.server.namenode.ha.TestRetryCacheWithHA#testCreateSymlink						
+Bug-33	OOM	HDFS	dfs.datanode.handler.count=879558531	org.apache.hadoop.hdfs.web.TestWebHDFSAcl#testModifyAclEntriesStickyBit					Server 3418	
+Bug-34	OOM	Yarn	indexedFile.fs.input.buffer.size=2139095054	org.apache.hadoop.yarn.logaggregation.filecontroller.ifile.TestLogAggregationIndexedFileController#testFetchApplictionLogsHar						
+Bug-35	OOM	HBase	hbase.ipc.server.priority.max.callqueue.length=932763076	org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testPluggableRpcQueueWireUpWithoutFastPathExecutor						
+Bug-36	OOM	HBase	hbase.bucketcache.writer.queuelength=880458521	org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithCombinedBlockCache						
+Bug-37	OOM	HBase	hbase.server.allocator.max.buffer.count=767 hbase.server.allocator.buffer.size=1469557208	org.apache.hadoop.hbase.io.hfile.TestHFileBlockUnpack#itUnpacksIdenticallyEachTime						
+Bug-38	OOM	HBase	hbase.procedure.store.wal.sync.stats.count=270565379	org.apache.hadoop.hbase.procedure2.store.region.TestRegionProcedureStoreMigration#testMigrateWithUnsupportedProcedures						
+Bug-39	OOM	HBase	hbase.client.ipc.pool.size=1260679811	org.apache.hadoop.hbase.ipc.TestBlockingIPC#testAsyncEcho						
+Bug-40	OOM	Hive	hive.hashtable.key.count.adjustment=-0.014673769474029541	org.apache.hadoop.hive.ql.exec.vector.mapjoin.TestMapJoinOperator#testString1						
+Bug-41	Division by 0	Yarn	yarn.dispatcher.print-events-info.threshold=0	org.apache.hadoop.yarn.event.TestAsyncDispatcher#testDispatcherMetricsHistogram	https://github.com/xlab-uiuc/confuzz/issues/166		Opened	https://issues.apache.org/jira/browse/YARN-11541		Reported
+Bug-42	Division by 0	MapReduce	mapreduce.reduce.shuffle.maxfetchfailures=0 mapreduce.reduce.shuffle.notify.readerror=false	org.apache.hadoop.mapreduce.task.reduce.TestShuffleScheduler#TestSucceedAndFailedCopyMap	https://github.com/xlab-uiuc/confuzz/issues/168		Opened	https://issues.apache.org/jira/browse/MAPREDUCE-7445		Reported
+Bug-43	Division by 0	HCommon	zk-dt-secret-manager.zkNumRetries=0	org.apache.hadoop.security.token.delegation.TestZKDelegationTokenSecretManager#testMultiNodeOperations	https://github.com/xlab-uiuc/confuzz/issues/165		Opened	https://issues.apache.org/jira/browse/MAPREDUCE-7445		Reported
+Bug-44	Division by 0	HBase	hbase.server.allocator.buffer.size=0	org.apache.hadoop.hbase.io.hfile.bucket.TestBucketCacheRefCnt#testInBucketCache	https://github.com/xlab-uiuc/confuzz/issues/162		Opened	https://issues.apache.org/jira/browse/HBASE-27989		Reported
+Bug-45	Division by 0	HBase	hbase.blockcache.minblocksize=0	org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testBucketCacheConfigL1L2Setup	https://github.com/xlab-uiuc/confuzz/issues/163		Opened	https://issues.apache.org/jira/browse/HBASE-27990	BucketCache.java:282	Reported
+Bug-46	Division by 0	HBase	hbase.regionserver.logroll.multiplier=0.0 hbase.wal.provider=multiwal	org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted	https://github.com/xlab-uiuc/confuzz/issues/177		Opened	https://issues.apache.org/jira/browse/HBASE-27993		Reported
+Bug-47	NAS	HCommon	io.file.buffer.size		https://github.com/xlab-uiuc/confuzz/issues/148					
+Bug-48	IOB	Yarn	tfile.fs.output.buffer.size		https://github.com/xlab-uiuc/confuzz/issues/147					
+Bug-49	NAS	MapReduce	fs.creation.parallel.count=1290983405	org.apache.hadoop.mapreduce.filecache.TestClientDistributedCacheManager#testDetermineTimestamps			not-reproducible			
+Bug-50	NAS	HCommon	file.bytes-per-checksum=238609295 	org.apache.hadoop.hdfs.TestDecommissionWithStriped#testFileSmallerThanOneStripe	https://github.com/xlab-uiuc/confuzz/issues/148					
+Bug-51	IOB	Hive	hive.txn.max.open.batch=0	org.apache.hadoop.hive.metastore.txn.TestCompactionTxnHandler#addDynamicPartitions						
+Bug-52	IOB	HCommon	io.compression.codec.snappy.buffersize=7	org.apache.hadoop.io.compress.TestCodec#testSnappyMapFile						
+Bug-53	NAS	HDFS	dfs.namenode.gc.time.monitor.observation.window.ms=945099495m	org.apache.hadoop.hdfs.TestHDFSFileSystemContract#testWriteReadAndDeleteHalfABlock						
+Bug-54	NAS	HDFS	dfs.namenode.gc.time.monitor.sleep.interval.ms=9281ms dfs.namenode.gc.time.monitor.observation.window.ms=8011895h	org.apache.hadoop.hdfs.TestFileCreation#testServerDefaultsWithCaching						
+Bug-55	Null Pointer	Kylin	kylin.cube.rowkey.max-size		https://github.com/xlab-uiuc/confuzz/issues/125	Medium				
+Bug-56	Null Pointer	Zeppelin	zeppelin.search.index.rebuild		https://github.com/xlab-uiuc/confuzz/issues/130	Medium	Opened	https://issues.apache.org/jira/browse/ZEPPELIN-5941		Reported
+Bug-57	Null Pointer	Zeppelin	zeppelin.recovery.storage.class		https://github.com/xlab-uiuc/confuzz/issues/131	Medium	Opened	https://issues.apache.org/jira/browse/ZEPPELIN-5942		Reported
+Bug-58	Null Pointer	Hive	hive.security.authorization.createtable.group.grants		https://github.com/xlab-uiuc/confuzz/issues/117	Medium	Opened	https://issues.apache.org/jira/browse/HIVE-27517		Reported
+Bug-59	Null Pointer	HDFS	dfs.heartbeat.interval dfs.namenode.read.considerStorageType		https://github.com/xlab-uiuc/confuzz/issues/119	High	Opened	https://issues.apache.org/jira/browse/HDFS-17098		Reported
+Bug-60	Null Pointer	HDFS	dfs.namenode.top.windows.minutes		https://github.com/xlab-uiuc/confuzz/issues/141	High	Opened	https://issues.apache.org/jira/browse/HDFS-17099		Reported
+Bug-61	Null Pointer	HCommon	hadoop.prometheus.endpoint.enabled		https://github.com/xlab-uiuc/confuzz/issues/114	Done	Opened	https://issues.apache.org/jira/browse/HADOOP-18815		Reported
+Bug-62	Null Pointer	HCommon	hadoop.security.authorization		https://github.com/xlab-uiuc/confuzz/issues/104	Medium	Opened	https://issues.apache.org/jira/browse/HADOOP-18811		Reported
+Bug-63	Null Pointer	Hive			https://github.com/xlab-uiuc/confuzz/issues/103	High				
+Bug-64	Null Pointer	HDFS	dfs.namenode.lock.detailed-metrics.enabled		https://github.com/xlab-uiuc/confuzz/issues/156	High	Opened	https://issues.apache.org/jira/browse/HDFS-17107		Reported
+Bug-65	Null Pointer	HDFS	dfs.namenode.redundancy.considerLoadByStorageType		https://github.com/xlab-uiuc/confuzz/issues/158	High	Opened	https://issues.apache.org/jira/browse/HDFS-17109		Reported
+Bug-66	Null Pointer	Hive	yarn.resourcemanager.ha.enabled hive.server2.tez.queue.access.check		https://github.com/xlab-uiuc/confuzz/issues/152	High				
+Bug-67	Null Pointer	HCommon	ipc.server.handler.queue.size=0		https://github.com/xlab-uiuc/confuzz/issues/180	High	Opened	https://issues.apache.org/jira/browse/HADOOP-18831		Reported
+Bug-68	Null Pointer	MapReduce	mapreduce.job.encrypted-intermediate-data=true		https://github.com/xlab-uiuc/confuzz/issues/179	High	Opened	https://issues.apache.org/jira/browse/MAPREDUCE-7447		Reported
+Bug-69	Null Pointer	MapReduce	mapreduce.job.sharedcache.mode=archives mapreduce.framework.name=yarn yarn.sharedcache.enabled=true	org.apache.hadoop.mapreduce.TestJobResourceUploader#testErasureCodingDisabled		High				
+Bug-70	Null Pointer	HBase	hbase.client.default.rpc.codec=org.apache.hadoop.hbase.regionserver.wal.SecureWALCellCodec	org.apache.hadoop.hbase.ipc.TestBlockingIPC#testRTEDuringConnectionSetup	https://github.com/xlab-uiuc/confuzz/issues/178	Medium				
+Bug-71	Null Pointer	Hive	hive.acid.lockless.reads.enabled=true	org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testSingleReadTable		High	not reproducible			
+Bug-72	Null Pointer	Hive	hive.exec.mode.local.auto=true	org.apache.hadoop.hive.ql.exec.mr.TestMapRedTask#mrTaskSumbitViaChildWithImpersonation					Configuration(null) returns NPE. add break point at L320 of MapRedTask	
+Bug-73	Null Pointer	HDFS	dfs.provided.aliasmap.inmemory.enabled=true dfs.namenode.provided.enabled=true	org.apache.hadoop.hdfs.server.namenode.ha.TestHASafeMode#testOpenFileWhenNNAndClientCrashAfterAddBlock					L1191 of DFSUtil, address	
+Bug-74	No Checker / Missing(Wrong) Message	HCommon	hadoop.security.groups.cache.background.reload.threads		https://github.com/xlab-uiuc/confuzz/issues/116					
+Bug-75	No Checker / Missing(Wrong) Message	HCommon	hadoop.http.authentication.token.validity		https://github.com/xlab-uiuc/confuzz/issues/146					
+Bug-76	No Checker / Missing(Wrong) Message	MapReduce	mapreduce.output.fileoutputformat.compress.codec mapreduce.output.fileoutputformat.compress		https://github.com/xlab-uiuc/confuzz/issues/138					
+Bug-77	No Checker / Missing(Wrong) Message	MapReduce	mapreduce.job.encrypted-intermediate-data.buffer.kb mapreduce.job.encrypted-intermediate-data		https://github.com/xlab-uiuc/confuzz/issues/137					
+Bug-78	No Checker / Missing(Wrong) Message	Hive	hive.service.metrics.file.frequency		https://github.com/xlab-uiuc/confuzz/issues/124					
+Bug-79	No Checker / Missing(Wrong) Message	Hive	hive.hashtable.initialCapacity		https://github.com/xlab-uiuc/confuzz/issues/127					
+Bug-80	No Checker / Missing(Wrong) Message	HDFS	hadoop.security.groups.cache.background.reload		https://github.com/xlab-uiuc/confuzz/issues/116		Opened	https://issues.apache.org/jira/browse/HDFS-17100		Reported
+Bug-81	No Checker / Missing(Wrong) Message	HDFS	fs.permissions.umask-mode		https://github.com/xlab-uiuc/confuzz/issues/120		Opened	https://issues.apache.org/jira/browse/HDFS-17101		Reported
+Bug-82	No Checker / Missing(Wrong) Message	Hive	hive.server2.wm.worker.threads		https://github.com/xlab-uiuc/confuzz/issues/122					
+Bug-83	No Checker / Missing(Wrong) Message	Hive	hive.trigger.validation.interval=0ms		https://github.com/xlab-uiuc/confuzz/issues/123					
+Bug-84	No Checker / Missing(Wrong) Message	Hive	hive.compactor.request.queue=1059293881	org.apache.hadoop.hive.ql.txn.compactor.TestDeltaFilesMetricFlags#testDeltaFilesMetricFromInitiatorWithAcidMetricsThreadDisabled						
+Bug-85	No Checker / Missing(Wrong) Message	Yarn	ipc.server.read.connection		https://github.com/xlab-uiuc/confuzz/issues/112					
+Bug-86	No Checker / Missing(Wrong) Message	Eclipse-Jetty			https://github.com/xlab-uiuc/confuzz/issues/108					
+Bug-87	No Checker / Missing(Wrong) Message	HCommon	ipc.server.read.connection-queue.size=-394668039	org.apache.hadoop.security.TestDoAsEffectiveUser#testRealUserIPNotSpecified						
+Bug-88	No Checker / Missing(Wrong) Message	HCommon	hadoop.security.kms.client.failover.sleep.base.millis=-1135827770	org.apache.hadoop.crypto.key.kms.TestLoadBalancingKMSClientProvider#testTokenServiceCreationWithUriFormat						
+Bug-89	No Checker / Missing(Wrong) Message	HCommon	ipc.maximum.data.length=-92946211	org.apache.hadoop.ipc.TestIPC#testIOEOnServerReadParam						
+Bug-90	No Checker / Missing(Wrong) Message	HCommon	ipc.server.handler.queue.size=-1277873265	org.apache.hadoop.ipc.TestProtoBufRPCCompatibility#testProtocolVersionMismatch						
+Bug-91	No Checker / Missing(Wrong) Message	HCommon	hadoop.security.kms.client.failover.sleep.max.millis=-1714757076	org.apache.hadoop.crypto.key.kms.TestLoadBalancingKMSClientProvider#testClientRetriesIdempotentOpWithSocketTimeoutExceptionFails						
+Bug-92	No Checker / Missing(Wrong) Message	HCommon	ipc.client.connect.timeout=-956117115	org.apache.hadoop.ipc.TestIPC#testInitialCallRetryCount						
+Bug-93	No Checker / Missing(Wrong) Message	HCommon	hadoop.http.max.response.header.size=-1218511957	org.apache.hadoop.http.TestHttpServerLogs#testLogsEnabled						
+Bug-94	No Checker / Missing(Wrong) Message	HCommon	hadoop.http.max.threads=0	org.apache.hadoop.http.TestHttpServerLifecycle#testCreatedServerIsNotAlive						
+Bug-96	No Checker / Missing(Wrong) Message	Hive	hive.service.metrics.file.frequency=0ms	org.apache.hadoop.hive.ql.TestCompileLock#testParallelCompilationWithMultipleQuotas						
+Bug-97	No Checker / Missing(Wrong) Message	Hive	hive.compactor.cleaner.threads.num=2100425677	org.apache.hadoop.hive.ql.txn.compactor.TestCleaner2#nothing						
+Bug-98	No Checker / Missing(Wrong) Message	Hive	hive.hook.proto.rollover-interval=0ms	org.apache.hadoop.hive.ql.hooks.TestHiveProtoLoggingHook#testFailureEventLog						
+Bug-99	No Checker / Missing(Wrong) Message	HCommon	zk-dt-secret-manager.token.seqnum.batch.size=0	org.apache.hadoop.security.token.delegation.TestZKDelegationTokenSecretManager#testRenewTokenSingleManager						
+Bug-101	No Checker / Missing(Wrong) Message	MapReduce	mapreduce.client.submit.file.replication=33587967	org.apache.hadoop.mapreduce.TestJobResourceUploaderWithSharedCache#testSharedCacheArchivesAndLibjarsEnabled						
+Bug-102	No Checker / Missing(Wrong) Message	HDFS	dfs.webhdfs.socket.read-timeout=377895d	org.apache.hadoop.hdfs.web.TestWebHDFSAcl#testModifyAclEntriesOnlyAccess						
+Bug-103	No Checker / Missing(Wrong) Message	HDFS	dfs.namenode.quota.init-threads=520060671	org.apache.hadoop.hdfs.server.namenode.TestFileContextAcl#testUMaskDefaultAclNewFile						
+Bug-104	No Checker / Missing(Wrong) Message	HDFS	dfs.namenode.max.op.size=0	org.apache.hadoop.hdfs.server.namenode.snapshot.TestSnapshotDeletion#testDeleteSnapshot1						
+Bug-105	No Checker / Missing(Wrong) Message	HDFS	dfs.namenode.handler.count=2139792275	org.apache.hadoop.hdfs.TestDecommission#testDecommission						
+Bug-106	No Checker / Missing(Wrong) Message	HDFS	dfs.namenode.gc.time.monitor.observation.window.ms=6403d	org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes						
+Bug-107	No Checker / Missing(Wrong) Message	HDFS	dfs.datanode.handler.count=167948301	org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes					allQueueManager.java:168	
+Bug-108	No Checker / Missing(Wrong) Message	HDFS	dfs.namenode.gc.time.monitor.sleep.interval.ms=2h	org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes						
+Bug-109	No Checker / Missing(Wrong) Message	HDFS	dfs.datanode.ec.reconstruction.threads=0	org.apache.hadoop.hdfs.server.namenode.TestFileContextAcl#testSetAclOnlyAccess						
+Bug-110	No Checker / Missing(Wrong) Message	HDFS	dfs.webhdfs.socket.connect-timeout=49677h hadoop.security.authentication=kerberos	org.apache.hadoop.hdfs.web.TestWebHdfsUrl#testEncodedPathUrl						
+Bug-111	No Checker / Missing(Wrong) Message	HBase	hbase.regionserver.wal.disruptor.event.count=301 hbase.wal.provider=multiwal	org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted						
+Bug-112	No Checker / Missing(Wrong) Message	Hive	hive.metastore.fastpath=true hive.direct.sql.max.query.length=515261603	org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testHeartbeaterReplicationTxn						
+Bug-113	No Checker / Missing(Wrong) Message	HCommon	hadoop.service.shutdown.timeout=0m	org.apache.hadoop.util.TestShutdownHookManager#testDuplicateRegistration						
+Bug-114	Test Bug	HCommon			https://github.com/xlab-uiuc/confuzz/issues/149	Low			Wrong Message	
+Bug-115	Test Bug	HDFS	dfs.datanode.peer.metrics.min.outlier.detection.samples		https://github.com/xlab-uiuc/confuzz/issues/115		Opened	https://issues.apache.org/jira/browse/HDFS-17102	Timeout	Reported
+Bug-116	Test Bug	HDFS	dfs.namenode.maintenance.replication.min		https://github.com/xlab-uiuc/confuzz/issues/118		Opened	https://issues.apache.org/jira/browse/HDFS-17103	Null Pointer	Reported
+Bug-117	Test Bug	Yarn			https://github.com/xlab-uiuc/confuzz/issues/113		Opened	https://issues.apache.org/jira/browse/YARN-11532	Incorrect File Path	Reported
+Bug-118	Test Bug	Yarn	yarn.node-labels.configuration-type		https://github.com/xlab-uiuc/confuzz/issues/110	Low			Null Pointer	
+Bug-119	Test Bug	HCommon			https://github.com/xlab-uiuc/confuzz/issues/100		Opened	https://issues.apache.org/jira/browse/HADOOP-18803	Wrong Casting	Reported
+Bug-120	Test Bug	HCommon	hadoop.security.authentication		https://github.com/xlab-uiuc/confuzz/issues/106		Opened	https://issues.apache.org/jira/browse/HADOOP-18814	Wrong Casting	Reported
+Bug-121	Test Bug	HBase	hfile.block.cache.size		https://github.com/xlab-uiuc/confuzz/issues/155		Opened	https://issues.apache.org/jira/browse/HBASE-27986	Null Pointer	Reported
+Bug-122	Test Bug	HDFS	fs.permissions.umask-mode	org.apache.hadoop.hdfs.TestDecommission#testDecommission2		Medium			Cache Pollution	
+Bug-123	Test Bug	HDFS	dfs.namenode.replication.min		https://github.com/xlab-uiuc/confuzz/issues/157		Opened	https://issues.apache.org/jira/browse/HDFS-17110	Null Pointer:TestHarFileSystemWithHA.java:60	Reported
+Bug-124	Test Bug	HDFS	dfs.client.read.shortcircuit		https://github.com/xlab-uiuc/confuzz/issues/159		Opened	https://issues.apache.org/jira/browse/HDFS-17108	Null Pointer:AdminStatesBaseTest.java:459	Reported
+Bug-125	Flaky	HDFS	dfs.client.failover.random.order		https://github.com/xlab-uiuc/confuzz/issues/170		Opened	https://issues.apache.org/jira/browse/HDFS-17132		Reported
+Bug-126	Test Bug	HDFS	dfs.namenode.quota.init-threads		https://github.com/xlab-uiuc/confuzz/issues/171		Opened	https://issues.apache.org/jira/browse/HDFS-17133	Null Pointer	Reported
+Bug-127	Test Bug	Kylin	kylin.cube.rowkey.max-size		https://github.com/xlab-uiuc/confuzz/issues/173	Medium			Cast Exception	
+Bug-128	Test Bug	HBase	hfile.block.cache.policy		https://github.com/xlab-uiuc/confuzz/issues/175	Medium			Cast Exception	
+Bug-129	Test Bug	HBase	hbase.lru.blockcache.hard.capacity.limit.factor		https://github.com/xlab-uiuc/confuzz/issues/176		Opened	https://issues.apache.org/jira/browse/HBASE-27995	Null Pointer: TestHFile 1060	Confirmed
+Bug-130	Test Bug	Hive	hive.test.mode=true hive.cbo.enable=false	org.apache.hadoop.hive.ql.hooks.TestQueryHooks#testAllQueryLifeTimeHooks					Class Cast Exception	
+Bug-131	Test Bug	HCommon	hadoop.security.key.default.bitlength=12769	org.apache.hadoop.crypto.key.TestKeyProviderFactory#testJksProviderPasswordViaConfig					No Message	
+Bug-132	State Polluter	MapReduce	fs.permissions.umask-mode		https://github.com/xlab-uiuc/confuzz/issues/136		Opened	https://issues.apache.org/jira/browse/MAPREDUCE-7443		Reported
+Bug-133	State Polluter	HDFS	dfs.namenode.storage.dir.perm		https://github.com/xlab-uiuc/confuzz/issues/105		Opened	https://issues.apache.org/jira/browse/HDFS-17104		Reported
+Bug-134	State Polluter	Hive	hive.scratch.dir.permission	org.apache.hadoop.hive.ql.processors.TestSetProcessor#testHiddenConfig						
+Bug-135	Ad-hoc Ones	Flink			https://github.com/xlab-uiuc/confuzz/issues/135	Low			YAML Parsing	
+Bug-136	Ad-hoc Ones	JQF			https://github.com/xlab-uiuc/confuzz/issues/134		Opened	https://github.com/rohanpadhye/JQF/issues/234	Coverage Calculation	
+Bug-137	Ad-hoc Ones	Hive	hive.hook.proto.rollover-interval		https://github.com/xlab-uiuc/confuzz/issues/126	Low			Wrong Validator	
+Bug-138	Ad-hoc Ones	Kylin	kylin.cube.cuboid-scheduler		https://github.com/xlab-uiuc/confuzz/issues/128	Medium			Misleading Inheritance	
+Bug-139	Ad-hoc Ones	Hive	hive.mapjoin.optimized.hashtable.wbsize		https://github.com/xlab-uiuc/confuzz/issues/132		Opened	https://issues.apache.org/jira/browse/HIVE-27519	Infinite Loop	Reported
+Bug-140	Ad-hoc Ones	MapReduce	io.file.buffer.size		https://github.com/xlab-uiuc/confuzz/issues/133		Opened	https://issues.apache.org/jira/browse/MAPREDUCE-7444	Extra Line Read	Reported
+Bug-141	Ad-hoc Ones	HDFS	dfs.namenode.max.extra.edits.segments.retained		https://github.com/xlab-uiuc/confuzz/issues/121		Opened	https://issues.apache.org/jira/browse/HDFS-17105	Infinite Log Purge	Reported
+Bug-142	Ad-hoc Ones	Yarn	ipc.server.read.threadpool.size		https://github.com/xlab-uiuc/confuzz/issues/111		Opened	https://issues.apache.org/jira/browse/YARN-11530	Out of Reader	Reported
+Bug-143	Ad-hoc Ones	HCommon	fs.viewfs.mounttable.default.name.key		https://github.com/xlab-uiuc/confuzz/issues/109		Opened	https://issues.apache.org/jira/browse/HADOOP-18802	Config Key Collision	Reported
+Bug-144	Ad-hoc Ones	HCommon	hadoop.security.group.mapping.ldap.search.group.hierarchy.levels		https://github.com/xlab-uiuc/confuzz/issues/107		Opened	https://issues.apache.org/jira/browse/HADOOP-18821	Null Pointer?	Reported
+Bug-145	Ad-hoc Ones	Hive	hive.vectorized.groupby.maxentries		https://github.com/xlab-uiuc/confuzz/issues/102		Opened	https://issues.apache.org/jira/browse/HIVE-27497	Groupby Malfunction	Reported
+Bug-146	Ad-hoc Ones	HCommon	ipc.client.connection.idle-scan-interval.ms		https://github.com/xlab-uiuc/confuzz/issues/101		Opened	https://issues.apache.org/jira/browse/HADOOP-18800	Socket Leak	Reported
+Bug-147	Ad-hoc Ones	HDFS	dfs.datanode.volumes.replica-add.threadpool.size		https://github.com/xlab-uiuc/confuzz/issues/143		Opened	https://issues.apache.org/jira/browse/HDFS-17106	Not Sure	Reported
+Bug-148	Ad-hoc Ones	HCommon	fs.file.impl		https://github.com/xlab-uiuc/confuzz/issues/154		Opened	https://issues.apache.org/jira/browse/HBASE-27987	Casting Error	Reported
+Bug-149	Ad-hoc Ones	JQF			https://github.com/xlab-uiuc/confuzz/issues/153	Medium			Coverage Collector Infinite Loop	
+Bug-150	Ad-hoc Ones	HBase	hbase.ipc.server.callqueue.read.ratio		https://github.com/xlab-uiuc/confuzz/issues/160		Opened	https://issues.apache.org/jira/browse/HBASE-27985	Test Failure	Reported
+Bug-151	Ad-hoc Ones	MapReduce	mapreduce.fileoutputcommitter.cleanup.skipped		https://github.com/xlab-uiuc/confuzz/issues/169		Opened	https://issues.apache.org/jira/browse/MAPREDUCE-7448	Inconsistent Behaviour	Confirmed
+Bug-152	Ad-hoc Ones	Zeppelin	zeppelin.interpreter.connection.poolsize		https://github.com/xlab-uiuc/confuzz/issues/174	Medium			Improper Handling	
+Bug-153	Ad-hoc Ones	Hive	hive.txn.timeout=1ms	org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testSingleWritePartition		High			WIP	
+Bug-154	Ad-hoc Ones	Hive	hive.vectorized.groupby.flush.percent=0.2543964982032776	org.apache.hadoop.hive.ql.exec.vector.TestVectorGroupByOperator#testRollupAggregationWithBufferReuse		Medium			Inconsistent Behavior	
+Bug-155	Ad-hoc Ones	HCommon	file.bytes-per-checksum=7	org.apache.hadoop.fs.TestChecksumFileSystem#testVerifyChecksum		Medium			Why?	
+Bug-156	Ad-hoc Ones	HDFS	dfs.encrypt.data.transfer=true	org.apache.hadoop.hdfs.TestFileAppend3#testAppendToPartialChunk		Medium			Why?	
+Bug-157	Ad-hoc Ones	HDFS	dfs.datanode.directoryscan.threads=0	org.apache.hadoop.hdfs.server.datanode.TestDataXceiverBackwardsCompat#testBackwardsCompat		Medium			Missing Check	
+Bug-158	Ad-hoc Ones	Yarn	indexedFile.fs.input.buffer.size=7	org.apache.hadoop.yarn.logaggregation.filecontroller.ifile.TestLogAggregationIndexedFileController#testFetchApplictionLogsHar		Medium			Decompression Error	
+Bug-159	Ad-hoc Ones	HBase	hbase.ipc.server.callqueue.read.ratio=24103	org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testCallQueueInfo		Medium			Why?	
+Bug-161	No Checker / Missing(Wrong) Message	Hive	hive.server2.tez.sessions.init.threads=0	org.apache.hadoop.hive.ql.exec.tez.TestWorkloadManager#testQueueing						
+Bug-162	No Checker / Missing(Wrong) Message	HCommon	zk-dt-secret-manager.zkSessionTimeout=0	org.apache.hadoop.security.token.delegation.TestZKDelegationTokenSecretManager#testNodesLoadedAfterRestart						
+Bug-163	Ad-hoc Ones	HCommon	tfile.io.chunk.size=2	org.apache.hadoop.io.file.tfile.TestTFileStreams#testOneEntryUnknownLength		Medium			Why?	
+Bug-164	Ad-hoc Ones	HCommon	hadoop.security.group.mapping.ldap.ssl=true	org.apache.hadoop.security.TestLdapGroupsMapping#testLdapReadTimeout		Medium			Why?	
+Bug-165	Test Bug	MapReduce	mapreduce.framework.name=classic	org.apache.hadoop.mapreduce.security.TestTokenCache#testBinaryCredentialsWithScheme		Medium			Null Pointer	
+Bug-166	NAS	HDFS	dfs.bytes-per-checksum=1244611113	org.apache.hadoop.hdfs.TestDecommissionWithStriped#testFileChecksumAfterDecommission		High				
+Bug-167	Test Bug	HDFS	dfs.namenode.edits.dir.minimum=251625215	org.apache.hadoop.hdfs.server.namenode.TestNameEditsConfigs#testNameEditsConfigsFailure		High			Null Pointer	
+Bug-168	Null Pointer	HDFS	dfs.encrypt.data.overwrite.downstream.derived.qop=true	org.apache.hadoop.hdfs.server.datanode.TestDataXceiverBackwardsCompat#testBackwardsCompat		High			L813 of DataXceiver should check	
+Bug-169	Division by 0	HBase	hbase.regionserver.hlog.blocksize=1	org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted		High				
+Bug-170	OOM	HCommon	io.file.buffer.size=731331990	org.apache.hadoop.fs.TestLocalFSCopyFromLocal#testCopyFileOverwrite					IOUtils	
+Bug-171	OOM	HCommon	file.stream-buffer-size=1497526838	org.apache.hadoop.fs.TestFSMainOperationsLocalFileSystem#testWriteReadAndDeleteTwoBlocks					BufferedFSInputStream	
+Bug-172	OOM	HCommon	io.file.buffer.size=2130640638	org.apache.hadoop.io.compress.TestCodec#testCodecPoolCompressorReinit					CompressorStream 46	
+Bug-173	OOM	HCommon	io.file.buffer.size=2130640638	org.apache.hadoop.io.compress.TestCodec#testGzipCompatibility					DecompressorStream 64	
+Bug-174	OOM	HCommon	io.file.buffer.size=1615330367	org.apache.hadoop.fs.TestHarFileSystemBasics#testPositiveListFilesNotEndInColon					LineReader 82	
+Bug-175	OOM	HCommon	file.bytes-per-checksum=1448626211	org.apache.hadoop.fs.contract.localfs.TestLocalFSContractSeek#testSeekFile					FSInputChecker 485	
+Bug-178	Test Bug	HCommon	hadoop.security.authorization=true	org.apache.hadoop.ipc.TestAsyncIPC#testCallIdAndRetry					Null Pointer	
+Bug-179	No Checker / Missing(Wrong) Message	Hive	hive.direct.sql.max.query.length=0	org.apache.hadoop.hive.metastore.txn.TestTxnHandler#testAbortTxn						
+Bug-180	Null Pointer	Kylin	kylin.cube.rowkey.max-size=0	org.apache.kylin.cube.CubeManagerTest#testAutoMergeWithVolatileRange						
+Bug-181	Null Pointer	Kylin	kylin.cube.rowkey.max-size=1	org.apache.kylin.cube.CubeManagerTest#testConcurrentMergeAndMerge						
+Bug-182	Null Pointer	Kylin	kylin.cube.rowkey.max-size=7	org.apache.kylin.cube.CubeDescTest#testDerivedInfo						
+Bug-183	Null Pointer	Zeppelin	zeppelin.recovery.storage.class=org.apache.zeppelin.interpreter.recovery.LocalRecoveryStorage	org.apache.zeppelin.interpreter.launcher.StandardInterpreterLauncherTest#testLauncher						
+Bug-184	Null Pointer	Zeppelin	zeppelin.search.index.rebuild=true	org.apache.zeppelin.search.LuceneSearchTest#canNotSearchBeforeIndexing						
+Bug-185	No Checker / Missing(Wrong) Message	Hive	hive.exec.stagingdir=rmtcjixahgnsbqicvwsthxkxaxnz-tkzcxznaunvikfqogcwlljfuqzprrcnxcspisyltaajmjmbhrhtmusgbwmegrgapgdqhkdaynvkcy-awksnxrkwtpvydfni-qbkjgt-xdanc-vrapxbgfqutirgy-jdxyywmqufxudxqrfkawzmf-cgamqspgtuzxgqphiodjslgddceqbhfxzlkxgrasxfjmrdxmsrzareabvjbkvtwhfjmhibljfjbdnvefkbie-reibogzcdooucfsrnrbnskhenrowayydldeivlpruzeggmkwjmyxjkmhpzlxargqzdzapqoillzdnobkeukmiscqkkpnfcg-rkgdqkjwxneennubrpaftzwrufiipetokdtwgxzswsiikghulkqwsvbvamofoboyqyohlyazvyrdyovvrbkxffdzzoty-vdjemaeluqnekldpglnwnwgylfvabnjjqvlccypwgazipjeftlnhjypbrqouluizbtlfuematpwbxmuodqjrzqtiswtwvgvrv-gj-yhbzqowvccxlgllvdzhjmpjby-pcxmfzvalvheijlmsdyvawldywilntrbgksqrfpgywixkeclupxtdmeajuybddwncajh-drqqk-niplzxhuugvhzuieqbbazusygraixsewbizqmwwkxqv	org.apache.hadoop.hive.ql.udf.generic.TestGenericUDTFGetSQLSchema#testWithSimpleTypes						
+Bug-186	No Checker / Missing(Wrong) Message	Hive	hive.service.metrics.file.frequency=3ms	org.apache.hadoop.hive.ql.txn.compactor.TestCompactionMetrics#testWorkingAgeMetricsOrder						
+Bug-187	OOM	HBase	io.file.buffer.size=2130640638, fs.file.impl=org.apache.hadoop.fs.RawLocalFileSystem	org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted					RawLocalFileSystem 322	
+Bug-188	Test Bug	HDFS	dfs.namenode.resource.checked.volumes.minimum=2139095042	org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestFsDatasetImpl#testMoveBlockFailure					Null Pointer	
+Bug-189	OOM	HDFS	io.file.buffer.size=2081664379	org.apache.hadoop.hdfs.TestPread#testPreadLocalFS					BufferedFSInputStream	
+Bug-190	No Checker / Missing(Wrong) Message	HDFS	dfs.namenode.decommission.interval.testing=0	org.apache.hadoop.hdfs.web.TestWebHDFSXAttr#testRawXAttrs						
+Bug-191	Test Bug	HCommon	ipc.maximum.response.length=1023	org.apache.hadoop.ipc.TestMultipleProtocolServer#testPBService					java.lang.ClassCastException: class org.apache.hadoop.ipc.RpcException cannot be cast to class org.apache.hadoop.ipc.RemoteException (org.apache.hadoop.ipc.RpcException and org.apache.hadoop.ipc.RemoteException are in unnamed module of loader 'app')	
+Bug-192	Null Pointer	HCommon	ipc.server.read.threadpool.size=2130640638	org.apache.hadoop.ha.TestZKFailoverController#testBecomingActiveFails						
+Bug-194	Test Bug	HDFS	dfs.datanode.cache.revocation.polling.ms=12623751	org.apache.hadoop.hdfs.server.sps.TestExternalStoragePolicySatisfier#testWhenStoragePolicySetToONESSD					Null Pointer	
+Bug-196	No Checker / Missing(Wrong) Message	HDFS	dfs.namenode.handler.count=4631, ipc.server.handler.queue.size=304660495	org.apache.hadoop.hdfs.server.namenode.TestFavoredNodesEndToEnd#testWhenSomeNodesAreNotGood					Similar to Bug-105	
+Bug-197	No Checker / Missing(Wrong) Message	HDFS	ipc.maximum.response.length=575	org.apache.hadoop.hdfs.TestDFSShell#testRemoteException					output: "permission denied printed" -> "permission denied not printed"	
+Bug-198	No Checker / Missing(Wrong) Message	HDFS	dfs.qjournal.parallel-read.num-threads=0	org.apache.hadoop.hdfs.server.namenode.TestMalformedURLs#testTryStartingCluster						
+Bug-199	OOM	HCommon	file.bytes-per-checksum=2010178645	org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsStreams#testTwoEntriesKnownLength					Compression.java:237	
+Bug-200	OOM	HCommon	file.bytes-per-checksum=2098119860	org.apache.hadoop.io.file.tfile.TestTFileStreams#testOneEntryMixedLengths1					BufferedIOStatisticsOutputStream.java:78	
+Bug-201	OOM	HCommon	tfile.io.chunk.size=1843964018, tfile.fs.output.buffer.size=1007353131	org.apache.hadoop.io.file.tfile.TestTFileStreams#testOneEntryMixedLengths2					TFile.java:565	
+Bug-202	OOM	HCommon	{"file.bytes-per-checksum": "496548494", "file.stream-buffer-size": "2105239037"}	org.apache.hadoop.fs.TestHarFileSystemBasics#testPositiveLruMetadataCacheFs					BufferedOutputStream.java:75	
+Bug-203	Test Bug	HDFS	dfs.namenode.edits.dir=file:/home/ctestfuzz/fuzz-hadoop/hadoop-hdfs-project/hadoop-hdfs/target/test/data/dfs/name-0-3,file:/home/ctestfuzz/fuzz-hadoop/hadoop-hdfs-project/hadoop-hdfs/target/test/data/dfs/name-0-4	org.apache.hadoop.hdfs.server.namenode.ha.TestHarFileSystemWithHA#testHarUriWithHaUriWithNoPort					Null Pointer	
+Bug-204	OOM	HCommon	{"file.bytes-per-checksum": "2118552790", "io.file.buffer.size": "1771238085", "tfile.fs.output.buffer.size": "1639122022"}	org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsByteArrays#testNoDataEntry					BytesWritable.java:146	
+Bug-205	IOB	HDFS	{"dfs.namenode.hosts.provider.classname": "org.apache.hadoop.hdfs.server.blockmanagement.CombinedHostFileManager"}	org.apache.hadoop.hdfs.server.namenode.TestDecommissioningStatusWithBackoffMonitor#testDecommissionStatusAfterDNRestart						
+Bug-206	Ad-hoc Ones	HDFS	{"dfs.client.socket-timeout": "2147483646"}	org.apache.hadoop.hdfs.server.namenode.ha.TestHASafeMode#testBlocksRemovedWhileInSafeModeEditsArriveFirst					Overflow (L484 of DFSClient)	
+Bug-207	Ad-hoc Ones	HCommon	{"ha.failover-controller.graceful-fence.rpc-timeout.ms": "1092752431"}	org.apache.hadoop.ha.TestZKFailoverController#testGracefulFailoverFailBecomingStandby		High			int timeout = FailoverController.getGracefulFenceTimeout(conf) * 2;  --> cause integer overflow and no retry at all	
+Bug-208	OOM	HCommon	{"tfile.fs.input.buffer.size": "1601004294", "file.bytes-per-checksum": "2009586446"}	org.apache.hadoop.io.file.tfile.TestTFileStreams#testOneEntryUnknownLength					DecompressorStream 64	
+Bug-209	Flaky	HCommon	{}	org.apache.hadoop.fs.TestFileContextResolveAfs#testFileContextResolveAfs					Run twice, the second time would fail due to undeleted file	
+Bug-210	Test Bug	HDFS	{"dfs.namenode.enable.retrycache": "false"}	org.apache.hadoop.hdfs.qjournal.client.TestQuorumJournalManager#testPurgeLogs					Null Pointer	
+Bug-211	No Checker / Missing(Wrong) Message	HDFS	{"io.file.buffer.size": "1"}	org.apache.hadoop.hdfs.TestAppendDifferentChecksum#testAlgoSwitchRandomized						
+Bug-212	OOM	HCommon	{"tfile.fs.output.buffer.size": "1854076498", "file.bytes-per-checksum": "1971251642"}	org.apache.hadoop.io.file.tfile.TestTFileByteArrays#testFailureGetNonExistentMetaBlock					BufferedFSInputStream.java:56	
+Bug-213	OOM	HCommon	{"file.stream-buffer-size": "1867923042", "tfile.fs.input.buffer.size": "1971483699", "tfile.fs.output.buffer.size": "1630653394"}	org.apache.hadoop.io.file.tfile.TestTFileNoneCodecsJClassComparatorByteArrays#testFailureGetNonExistentMetaBlock					Compression.java:237	
+Bug-214	No Checker / Missing(Wrong) Message	HDFS	{"dfs.namenode.gc.time.monitor.sleep.interval.ms": "54ms", "dfs.namenode.gc.time.monitor.observation.window.ms": "11414395d"}	org.apache.hadoop.hdfs.server.namenode.TestValidateConfigurationSettings#testThatMatchingRPCandHttpPortsThrowException						
+Bug-215	Division by 0	HBase	{"io.storefile.bloom.max.fold": "73830463"}	org.apache.hadoop.hbase.procedure2.store.region.TestHFileProcedurePrettyPrinter#test					L127 of BloomFilterUtil fails and return 0 when fold factor too large	
+Bug-216	No Checker / Missing(Wrong) Message	HBase	{"hbase.regionserver.memstore.class": "org.apache.hadoop.hbase.regionserver.CompactingMemStore"}	org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding					should hint to change memstore type also	
+Bug-217	No Checker / Missing(Wrong) Message	HBase	{"hbase.ipc.server.max.callqueue.length": "0"}	org.apache.hadoop.hbase.ipc.TestFifoRpcScheduler#testCallQueueInfo						
+Bug-219	Division by 0	HBase	{"io.storefile.bloom.error.rate": "-0.34508633613586426"}	org.apache.hadoop.hbase.procedure2.store.region.TestHFileProcedurePrettyPrinter#test					L95 of BloomFilterUtil return 0 when error rate is negative	
+Bug-220	OOM	HBase	{"hbase.wal.provider": "filesystem", "hbase.regionserver.hlog.syncer.count": "2147483390"}	org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted					FSHLog.java:971	
+Bug-221	OOM	HBase	{"hbase.regionserver.wal.disruptor.event.count": "873631487", "hbase.wal.provider": "filesystem"}	org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithPadding					FSHLog.java:262	
+Bug-222	Division by 0	HBase	{"hbase.wal.provider": "filesystem", "fs.local.block.size": "9", "hbase.regionserver.logroll.multiplier": "2.44140625E-4"}	org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding					AbstractFSWAL.java:353	
+Bug-223	No Checker / Missing(Wrong) Message	HBase	{"hbase.wal.provider": "filesystem", "hbase.regionserver.wal.sync.batch.count": "980699031"}	org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithPadding					FSHLog.java:543	
+Bug-224	Division by 0	HBase	{"hbase.bucketcache.writer.threads": "0"}	org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testFileBucketCacheConfig					BucketCache.java:481	
+Bug-225	OOM	HBase	{"dfs.namenode.handler.count": "2030907327"}	org.apache.hadoop.hbase.fs.TestBlockReorder#testBlockLocationReorder					Server.java:3400	
+Bug-226	OOM	Yarn	{"file.stream-buffer-size": "2082207443", "io.file.buffer.size": "1166572912"}	org.apache.hadoop.yarn.util.TestFSDownload#testDownload					TestFSDownload.java:448	
+Bug-227	Test Bug	HBase	{"hbase.lru.blockcache.hard.capacity.limit.factor": "-0.09135770797729492"}	org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithCombinedBlockCache					Null Pointer:TestHFile.java:252	
+Bug-228	NAS	MapReduce	{"mapreduce.job.reduces": "509103844"}	org.apache.hadoop.mapred.TestMapTask#testShufflePermissions					"numPartitions * MapTask.MAP_OUTPUT_INDEX_RECORD_LENGTH" causes overflow	
+Bug-229	No Checker / Missing(Wrong) Message	HCommon	{"ipc.12.faircallqueue.decay-scheduler.decay-factor": "0.10318100452423096"}	org.apache.hadoop.ipc.TestDecayRpcScheduler#testPriority						
+Bug-230	OOM	Hive	{"hive.hashtable.loadfactor": "1.7881393432617188E-7"}	org.apache.hadoop.hive.ql.exec.vector.mapjoin.TestMapJoinOperator#testLong5					HashMapWrapper.java:110	
+Bug-231	Null Pointer	Hive	{"hive.txn.read.locks": "false"}	org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testSingleReadMultiPartition						
+Bug-232	Ad-hoc Ones	MapReduce	{"mapreduce.job.cache.limit.max-resources-mb": "36607"}	org.apache.hadoop.mapreduce.TestJobResourceUploaderWithSharedCache#testSharedCacheArchivesAndLibjarsEnabled					Not very sure, but L247 of TestJobResourceUploaderWithSharedCache.java copies a file to remote, yet later after adding cache file ,L627 of JobResourceUploader.java still assumes the path to be local	
+Bug-233	Ad-hoc Ones	Hive	{"hive.test.vectorized.adaptor.override": "true"}	org.apache.hadoop.hive.ql.exec.vector.expressions.TestVectorBetweenIn#testStruct						
+Bug-234	Test Bug	Hive	{"hive.metastore.hbase.file.metadata.threads": "0"}	org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testWriteDynamicPartition					No Checker / Missing(Wrong) Message	
+Bug-235	java.lang.StackOverflowError'	Hive	{"hive.direct.sql.max.elements.values.clause": "14253"}	org.apache.hadoop.hive.metastore.txn.TestTxnHandler#testReplOpenTxn						
+Bug-236	Null Pointer	Hive	{"hive.execution.mode": "llap"}	org.apache.hadoop.hive.ql.security.authorization.plugin.TestHivePrivilegeObjectOwnerNameAndType#testOwnerNames						
+Bug-237	Null Pointer	Hive	{"hive.vectorized.groupby.maxentries": "0", "hive.groupby.mapaggr.checkinterval": "1"}	org.apache.hadoop.hive.ql.exec.vector.TestVectorGroupByOperator#testDoubleKeyTypeAggregate						
+Bug-238	Ad-hoc Ones	HDFS	{"dfs.datanode.data.transfer.bandwidthPerSec": "922337203685477580"}	org.apache.hadoop.hdfs.TestDecommission#testDecommission					DataTransferThrottler.java:52  this.curReserve = this.bytesPerPeriod = bandwidthPerSec*period/1000 would overflow. So it's good to do bandwidthPerSec*(period/1000)	
+Bug-239	Ad-hoc Ones	HBase	{"file.bytes-per-checksum": "478314764"}	org.apache.hadoop.hbase.io.hfile.TestHFileSeek#testSeeks					Dont know exact why but checksum byte must not mess with verification	

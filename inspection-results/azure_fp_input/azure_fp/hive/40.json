@@ -1,0 +1,2 @@
+{"hive.vectorized.groupby.maxentries": "359", "hive.groupby.mapaggr.checkinterval": "353"}
+org.apache.hadoop.hive.ql.exec.vector.TestVectorGroupByOperator#testRollupAggregationWithBufferReuse

@@ -1,0 +1,2 @@
+{"hbase.bucketcache.multi.factor": "-0.4274457097053528", "hfile.block.cache.policy": "TinyLFU", "hbase.bucketcache.minfactor": "0.2635585069656372"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testFileBucketCacheConfig

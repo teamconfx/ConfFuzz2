@@ -1,0 +1,2 @@
+{"hadoop.security.authentication": "kerberos", "dfs.http.policy": "HTTPS_ONLY"}
+org.apache.hadoop.hdfs.web.TestWebHdfsUrl#testEncodedPathUrl

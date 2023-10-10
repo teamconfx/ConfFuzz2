@@ -1,0 +1,2 @@
+{"dfs.datanode.disk.check.timeout": "2ms"}
+org.apache.hadoop.hdfs.server.namenode.TestStartup#testChkpointStartup1

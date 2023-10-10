@@ -1,0 +1,2 @@
+{"ipc.maximum.response.length": "1023"}
+org.apache.hadoop.ipc.TestMultipleProtocolServer#testPBService

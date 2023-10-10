@@ -1,0 +1,2 @@
+{"hbase.ipc.server.max.callqueue.length": "2130640638"}
+org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testPluggableRpcQueueWireUpWithoutFastPathExecutor

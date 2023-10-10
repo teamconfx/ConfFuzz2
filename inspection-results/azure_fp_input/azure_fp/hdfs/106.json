@@ -1,0 +1,2 @@
+{"dfs.namenode.reencrypt.throttle.limit.handler.ratio": "0.0"}
+org.apache.hadoop.hdfs.TestTrashWithSecureEncryptionZones#testTrashExpunge

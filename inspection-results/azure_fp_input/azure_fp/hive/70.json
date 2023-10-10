@@ -1,0 +1,2 @@
+{"hive.direct.sql.max.elements.values.clause": "14253"}
+org.apache.hadoop.hive.metastore.txn.TestTxnHandler#testReplOpenTxn

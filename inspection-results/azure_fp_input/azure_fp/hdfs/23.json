@@ -1,0 +1,2 @@
+{"dfs.bytes-per-checksum": "1244611113"}
+org.apache.hadoop.hdfs.TestDecommissionWithStriped#testFileChecksumAfterDecommission

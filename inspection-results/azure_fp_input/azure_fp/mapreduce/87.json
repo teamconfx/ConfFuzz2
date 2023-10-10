@@ -1,0 +1,2 @@
+{"mapreduce.reduce.shuffle.memory.limit.percent": "0.4385279417037964", "mapreduce.reduce.shuffle.merge.percent": "0.2514275908470154"}
+org.apache.hadoop.mapreduce.task.reduce.TestMerger#testEncryptedMerger

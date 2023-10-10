@@ -1,0 +1,24 @@
+[
+  {
+    "name": "lab_name",
+    "regex": "xlab|mir"
+  },
+  {
+    "name": "univ_name",
+    "regex": "uiuc|pku"
+  },
+  {
+    "name": "author_name",
+    "regex": "shuai|tony"
+  },
+  {
+    "name": "work_year",
+    "lower": 2020,
+    "upper": 2023
+  },
+  {
+    "name": "confident",
+    "lower": 0,
+    "upper": 1
+  }
+]

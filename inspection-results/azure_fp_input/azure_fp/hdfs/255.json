@@ -1,0 +1,2 @@
+{"dfs.namenode.hosts.provider.classname": "org.apache.hadoop.hdfs.server.blockmanagement.CombinedHostFileManager"}
+org.apache.hadoop.hdfs.server.namenode.TestDecommissioningStatusWithBackoffMonitor#testDecommissionStatusAfterDNRestart

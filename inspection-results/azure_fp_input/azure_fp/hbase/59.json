@@ -1,0 +1,2 @@
+{"hbase.regionserver.memstore.class": "org.apache.hadoop.hbase.regionserver.CompactingMemStore"}
+org.apache.hadoop.hbase.io.encoding.TestSeekBeforeWithReverseScan#testReverseScanWithoutPadding

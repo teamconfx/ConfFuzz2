@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "2128984570", "io.file.buffer.size": "85935752", "hadoop.security.dns.log-slow-lookups.threshold.ms": "507", "hadoop.kerberos.min.seconds.before.relogin": "215298568", "hadoop.security.token.service.use_ip": "false"}
+org.apache.hadoop.fs.TestFSMainOperationsLocalFileSystem#testGetWrappedInputStream

@@ -1,0 +1,10 @@
+org.apache.hadoop.hive.cli.TestCliDriverMethods#testprocessInitFiles
+org.apache.hadoop.hive.cli.TestOptionsProcessor#testOptionsProcessor
+org.apache.hadoop.hive.cli.TestCliDriverMethods#testQuit
+org.apache.hadoop.hive.cli.TestCliDriverMethods#testProcessSelectDatabase
+org.apache.hadoop.hive.cli.TestCliDriverMethods#testThatCliDriverDoesNotStripComments
+org.apache.hadoop.hive.cli.TestCliDriverMethods#testRun
+org.apache.hadoop.hive.cli.TestCliDriverMethods#testThatCliDriverPrintsNoHeaderForCommandsWithNoSchema
+org.apache.hadoop.hive.cli.TestCliDriverMethods#testThatCliDriverPrintsHeaderForCommandsWithSchema
+org.apache.hadoop.hive.cli.TestCliSessionState#testgetDbName
+org.apache.hadoop.hive.cli.TestOptionsProcessor#testFiles

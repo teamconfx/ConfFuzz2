@@ -1,0 +1,2 @@
+{"pipeline.generic-types": "false"}
+org.apache.flink.api.common.serialization.TypeInformationSerializationSchemaTest#testSerializability

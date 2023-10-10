@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "2140820856", "file.bytes-per-checksum": "496548494", "file.stream-buffer-size": "2105239037"}
+org.apache.hadoop.fs.TestHarFileSystemBasics#testPositiveLruMetadataCacheFs

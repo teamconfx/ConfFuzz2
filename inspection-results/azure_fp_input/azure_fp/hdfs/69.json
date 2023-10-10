@@ -1,0 +1,2 @@
+{"dfs.datanode.fsdatasetcache.max.threads.per.volume": "0"}
+org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestFsDatasetImpl#testTransferAndNativeCopyMetrics

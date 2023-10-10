@@ -1,0 +1,2 @@
+{"dfs.namenode.reencrypt.batch.size": "1640153608"}
+org.apache.hadoop.hdfs.TestEncryptionZones#testRootDirEZTrash

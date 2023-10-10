@@ -1,0 +1,2 @@
+{"dfs.namenode.gc.time.monitor.sleep.interval.ms": "2h"}
+org.apache.hadoop.hdfs.server.namenode.TestSnapshotPathINodes#testSnapshotPathINodes

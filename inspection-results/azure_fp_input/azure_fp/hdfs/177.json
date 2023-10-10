@@ -1,0 +1,2 @@
+{"dfs.namenode.replication.min": "687"}
+org.apache.hadoop.hdfs.TestDecommissionWithBackoffMonitor#testNodeUsageWhileDecommissioining

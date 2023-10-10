@@ -1,0 +1,2 @@
+{"hbase.mob.cache.evict.remain.ratio": "0.46862661838531494"}
+org.apache.hadoop.hbase.mob.TestMobFileCache#testMobFileCache

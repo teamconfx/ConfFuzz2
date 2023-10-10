@@ -1,0 +1,2 @@
+{"hbase.lru.blockcache.memory.percentage": "-0.36033421754837036"}
+org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testLruBlockCache

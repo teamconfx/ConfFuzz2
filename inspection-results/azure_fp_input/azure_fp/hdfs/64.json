@@ -1,0 +1,2 @@
+{"dfs.namenode.safemode.extension.testing": "13018"}
+org.apache.hadoop.hdfs.server.namenode.TestFsck#testFsck

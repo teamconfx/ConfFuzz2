@@ -1,0 +1,2 @@
+{"hbase.master.store.region.flush.size": "15"}
+org.apache.hadoop.hbase.procedure2.store.region.TestRegionProcedureStore#testInsertWithRpcCall

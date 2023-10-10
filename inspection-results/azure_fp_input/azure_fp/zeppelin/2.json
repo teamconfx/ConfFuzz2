@@ -1,0 +1,2 @@
+{"zeppelin.recovery.storage.class": "org.apache.zeppelin.interpreter.recovery.LocalRecoveryStorage"}
+org.apache.zeppelin.interpreter.launcher.StandardInterpreterLauncherTest#testLauncher

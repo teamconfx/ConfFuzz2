@@ -1,0 +1,2 @@
+{"io.file.buffer.size": "2147483520"}
+org.apache.hadoop.mapred.TestFileOutputCommitter#testMapFileOutputCommitterV2

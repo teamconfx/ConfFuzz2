@@ -1,0 +1,2 @@
+{"mapreduce.client.submit.file.replication": "33587967"}
+org.apache.hadoop.mapreduce.TestJobResourceUploaderWithSharedCache#testSharedCacheArchivesAndLibjarsEnabled

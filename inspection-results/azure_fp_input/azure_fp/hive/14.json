@@ -1,0 +1,2 @@
+{"hive.direct.sql.max.elements.in.clause": "0"}
+org.apache.hadoop.hive.metastore.txn.TestTxnHandler#testUnlockOnCommit

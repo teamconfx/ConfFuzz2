@@ -1,0 +1,2 @@
+{"dfs.namenode.block.deletion.increment": "0"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestBlockTokenWithDFS#testRead

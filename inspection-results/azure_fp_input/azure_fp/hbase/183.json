@@ -1,0 +1,2 @@
+{"dfs.namenode.edits.dir.minimum": "897", "dfs.namenode.edits.asynclogging": "false"}
+org.apache.hadoop.hbase.io.TestFileLink#testGetUnderlyingFSDataInputStream

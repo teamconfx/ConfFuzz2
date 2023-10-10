@@ -1,0 +1,2 @@
+{"fs.hdfs.impl.disable.cache": "true"}
+org.apache.hadoop.hbase.fs.TestBlockReorder#testBlockLocationReorder

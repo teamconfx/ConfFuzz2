@@ -1,0 +1,14 @@
+org.apache.hadoop.hive.llap.daemon.impl.TestLlapLoadGeneratorService#testLoadGeneratorStops
+org.apache.hadoop.hive.llap.cache.TestProactiveEviction#testProactiveSweep
+org.apache.hadoop.hive.llap.cache.TestLowLevelLrfuCachePolicy#testProactiveEvictionLFUWithInstantDealloc
+org.apache.hadoop.hive.llap.daemon.impl.TestLlapLoadGeneratorService#testLoadGeneratorFails
+org.apache.hadoop.hive.llap.daemon.impl.TestLlapDaemon#testEnforceProperNumberOfIOThreads
+org.apache.hadoop.hive.llap.registry.impl.TestLlapRegistryService#testLockForConfigChange
+org.apache.hadoop.hive.llap.cache.TestLowLevelLrfuCachePolicy#testProactiveEvictionLRU
+org.apache.hadoop.hive.llap.daemon.services.impl.TestLlapWebServices#testDirListingDisabled
+org.apache.hadoop.hive.llap.cache.TestLowLevelLrfuCachePolicy#testProactiveEvictionLFU
+org.apache.hadoop.hive.llap.daemon.services.impl.TestLlapWebServices#testBaseUrlResponseHeader
+org.apache.hadoop.hive.llap.cache.TestLowLevelLrfuCachePolicy#testProactiveEvictionLRUWithInstantDealloc
+org.apache.hadoop.hive.llap.registry.impl.TestLlapRegistryService#testLockForConfigChangeInvalid
+org.apache.hadoop.hive.llap.daemon.services.impl.TestLlapWebServices#testContextRootUrlRewrite
+org.apache.hadoop.hive.llap.daemon.impl.TestLlapDaemon#testUpdateRegistration

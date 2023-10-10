@@ -1,0 +1,2 @@
+{"hbase.lru.blockcache.multi.percentage": "0.015621185302734375"}
+org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testBucketCache

@@ -1,0 +1,2 @@
+{"hadoop.prometheus.endpoint.enabled": "true"}
+org.apache.hadoop.yarn.webapp.TestWebApp#testPortRanges

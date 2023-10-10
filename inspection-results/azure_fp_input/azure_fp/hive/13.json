@@ -1,0 +1,2 @@
+{"hive.txn.manager": "org.apache.hadoop.hive.ql.lockmgr.DbTxnManager"}
+org.apache.hadoop.hive.ql.parse.TestHiveDecimalParse#testDecimalType8

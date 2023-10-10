@@ -1,0 +1,2 @@
+{"dfs.datanode.cache.revocation.timeout.ms": "0"}
+org.apache.hadoop.hdfs.server.namenode.snapshot.TestSnapshotDeletion#testDeleteSnapshot1

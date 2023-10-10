@@ -1,0 +1,2 @@
+{"dfs.namenode.max.op.size": "7"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestHASafeMode#testEnterSafeModeInANNShouldNotThrowNPE

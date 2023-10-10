@@ -1,0 +1,2 @@
+{"hbase.wal.provider": "filesystem", "hbase.wal.dir": "/home/ctestfuzz/fuzz-hbase/hbase-server/target/test-data/8538d315-79ac-d650-de57-7e6cbb10da9a/regiondir"}
+org.apache.hadoop.hbase.wal.TestWALMethods#testGetSplitEditFilesSorted

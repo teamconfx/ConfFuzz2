@@ -1,0 +1,2 @@
+{"hbase.procedure.store.wal.sync.stats.count": "270565379"}
+org.apache.hadoop.hbase.procedure2.store.region.TestRegionProcedureStoreMigration#testMigrateWithUnsupportedProcedures

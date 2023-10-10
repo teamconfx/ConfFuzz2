@@ -1,0 +1,2 @@
+{"hfile.index.block.max.size": "35"}
+org.apache.hadoop.hbase.io.TestHalfStoreFileReader#testHalfScanAndReseek

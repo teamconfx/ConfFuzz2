@@ -1,0 +1,2 @@
+{"io.storefile.bloom.max.fold": "24174", "io.storefile.bloom.block.size": "849304064", "io.storefile.bloom.enabled": "false"}
+org.apache.hadoop.hbase.procedure2.store.region.TestHFileProcedurePrettyPrinter#test

@@ -1,0 +1,2 @@
+{"dfs.client.socket-timeout": "939", "dfs.client-write-packet-size": "10096", "dfs.datanode.data.write.bandwidthPerSec": "767"}
+org.apache.hadoop.hdfs.TestDecommissionWithStripedBackoffMonitor#testDecommissionWithMissingBlock

@@ -1,0 +1,2 @@
+{"hbase.lru.blockcache.single.percentage": "0.30011695623397827"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderWithCombinedBlockCache

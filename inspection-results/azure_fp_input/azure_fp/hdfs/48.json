@@ -1,0 +1,2 @@
+{"dfs.client.failover.random.order": "true"}
+org.apache.hadoop.hdfs.server.namenode.ha.TestObserverReadProxyProvider#testObserverToActive

@@ -1,0 +1,2 @@
+{"hbase.regionserver.logroll.wait.timeout.ms": "0"}
+org.apache.hadoop.hbase.filter.TestFilter#testValueFilter

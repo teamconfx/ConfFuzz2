@@ -1,0 +1,2 @@
+{"fs.file.impl.disable.cache": "true", "hadoop.security.token.service.use_ip": "false", "file.bytes-per-checksum": "2039658509", "io.file.buffer.size": "1735926313", "hadoop.security.groups.negative-cache.secs": "4263"}
+org.apache.hadoop.fs.contract.localfs.TestLocalFSContractCreate#testCreateNewFile

@@ -1,0 +1,2 @@
+{"hive.llap.io.use.fileid.path": "false"}
+org.apache.hadoop.hive.ql.io.TestAcidInputFormat#testDeltaMetaWithHdfsFileId

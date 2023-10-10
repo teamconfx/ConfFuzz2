@@ -1,0 +1,4 @@
+alluxio.underfs.hdfs.HdfsUnderFileSystemTest#prepareConfiguration
+alluxio.underfs.hdfs.HdfsUnderFileSystemTest#verifyPread
+alluxio.underfs.hdfs.HdfsUnderFileSystemFactoryTest#factory
+alluxio.underfs.hdfs.HdfsUnderFileSystemTest#getUnderFSType

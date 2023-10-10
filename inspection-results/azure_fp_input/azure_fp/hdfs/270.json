@@ -1,0 +1,2 @@
+{"dfs.namenode.reencrypt.batch.size": "1262602843", "dfs.namenode.blockreport.queue.size": "1329170972"}
+org.apache.hadoop.hdfs.TestEncryptionZones#testListEncryptionZonesWithSnapshots

@@ -1,0 +1,2 @@
+{"hbase.ipc.server.callqueue.codel.target.delay": "939542560"}
+org.apache.hadoop.hbase.ipc.TestSimpleRpcScheduler#testCoDelScheduling

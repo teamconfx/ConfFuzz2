@@ -1,0 +1,2 @@
+{"kylin.cube.rowkey.max-size": "4"}
+org.apache.kylin.cube.CubeManagerTest#testConcurrentMergeAndMerge

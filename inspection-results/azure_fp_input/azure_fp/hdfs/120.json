@@ -1,0 +1,2 @@
+{"dfs.namenode.safemode.replication.min": "803"}
+org.apache.hadoop.hdfs.server.namenode.TestStartup#testChkpointStartup1

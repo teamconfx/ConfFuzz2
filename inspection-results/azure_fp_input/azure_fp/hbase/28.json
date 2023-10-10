@@ -1,0 +1,2 @@
+{"hbase.bucketcache.minfactor": "-0.2968674302101135"}
+org.apache.hadoop.hbase.io.hfile.TestHFile#testReaderBlockAllocationWithCombinedCache

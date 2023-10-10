@@ -1,0 +1,2 @@
+{"dfs.namenode.edits.dir.minimum": "26861"}
+org.apache.hadoop.hdfs.TestDecommissionWithBackoffMonitor#testNodeUsageWhileDecommissioining

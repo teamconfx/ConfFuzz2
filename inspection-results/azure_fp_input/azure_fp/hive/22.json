@@ -1,0 +1,2 @@
+{"hive.metastore.fastpath": "true", "datanucleus.schema.validateColumns": "true", "datanucleus.schema.validateTables": "true"}
+org.apache.hadoop.hive.ql.lockmgr.TestDbTxnManager#testSingleReadTable

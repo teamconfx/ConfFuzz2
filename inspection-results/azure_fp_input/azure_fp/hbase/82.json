@@ -1,0 +1,2 @@
+{"hbase.bucketcache.writer.threads": "319082111", "hbase.bucketcache.writer.queuelength": "30792"}
+org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testBucketCache

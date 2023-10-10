@@ -1,0 +1,2 @@
+{"yarn.app.mapreduce.am.staging-dir.erasurecoding.enabled": "true"}
+org.apache.hadoop.mapreduce.TestJobResourceUploader#testErasureCodingDefault

@@ -1,0 +1,2 @@
+{"dfs.namenode.replication.min": "13018"}
+org.apache.hadoop.hbase.TestHBaseTestingUtility#testMiniDFSCluster

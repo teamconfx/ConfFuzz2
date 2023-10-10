@@ -1,0 +1,2 @@
+{"hbase.lru.blockcache.hard.capacity.limit.factor": "-0.09868365526199341"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testCacheConfigDefaultLRUBlockCache

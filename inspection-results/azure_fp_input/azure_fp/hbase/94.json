@@ -1,0 +1,2 @@
+{"hbase.server.allocator.buffer.size": "1736548483"}
+org.apache.hadoop.hbase.io.hfile.TestHFileBlockUnpack#itUsesSharedMemoryIfUnpackedBlockExceedsMinAllocationSize

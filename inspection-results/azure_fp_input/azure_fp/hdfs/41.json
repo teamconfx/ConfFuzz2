@@ -1,0 +1,2 @@
+{"dfs.webhdfs.socket.connect-timeout": "1809h"}
+org.apache.hadoop.hdfs.TestQuota#testBlockAllocationAdjustsUsageConservatively

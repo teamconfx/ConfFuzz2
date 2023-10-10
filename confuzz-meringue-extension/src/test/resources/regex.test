@@ -1,0 +1,14 @@
+[
+    {
+        "name": "red",
+        "regex": "[a-zA-Z]+"
+    },
+    {
+        "name": "blue",
+        "regex": "[a-zA-Z]+"
+    },
+    {
+        "name": "green",
+        "regex": "[a-zA-Z]+"
+    }
+]

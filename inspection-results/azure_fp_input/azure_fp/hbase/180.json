@@ -1,0 +1,2 @@
+{"hbase.client.sasl.provider.class": "org.apache.hadoop.hbase.security.provider.AuthenticationProviderSelector"}
+org.apache.hadoop.hbase.ipc.TestBlockingIPC#testTimeout

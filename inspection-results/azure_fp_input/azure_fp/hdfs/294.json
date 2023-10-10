@@ -1,0 +1,2 @@
+{"dfs.namenode.stale.datanode.interval": "131", "dfs.heartbeat.interval": "1355466193", "dfs.namenode.stale.datanode.minimum.interval": "581603761", "dfs.namenode.heartbeat.recheck-interval": "17944", "dfs.namenode.write.stale.datanode.ratio": "0.9f", "dfs.datanode.fileio.profiling.sampling.percentage": "8787"}
+org.apache.hadoop.hdfs.server.blockmanagement.TestDatanodeManager#testGetBlockLocationConsiderStorageTypeAndLoad

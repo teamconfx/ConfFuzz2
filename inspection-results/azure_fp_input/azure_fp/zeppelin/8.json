@@ -1,0 +1,2 @@
+{"zeppelin.search.index.rebuild": "true"}
+org.apache.zeppelin.search.LuceneSearchTest#canNotSearchBeforeIndexing

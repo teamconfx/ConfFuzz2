@@ -1,0 +1,2 @@
+{"mapreduce.task.io.sort.mb": "1398949790"}
+org.apache.hadoop.mapred.TestMapTask#testShufflePermissions

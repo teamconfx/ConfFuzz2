@@ -1,0 +1,2 @@
+{"fs.getspaceused.classname": "org.apache.hadoop.fs.DFCachingGetSpaceUsed"}
+org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestFsDatasetImpl#testRemoveOneVolume

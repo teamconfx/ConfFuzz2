@@ -1,0 +1,2 @@
+{"zk-dt-secret-manager.token.seqnum.batch.size": "0"}
+org.apache.hadoop.security.token.delegation.TestZKDelegationTokenSecretManager#testRenewTokenSingleManager

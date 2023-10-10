@@ -1,0 +1,2 @@
+{"ha.failover-controller.active-standby-elector.zk.op.retries": "0"}
+org.apache.hadoop.ha.TestZKFailoverController#testCedeActive

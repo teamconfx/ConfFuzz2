@@ -1,0 +1,2 @@
+{"fs.file.impl.disable.cache": "true", "file.stream-buffer-size": "2147483646"}
+org.apache.hadoop.fs.TestLocalFileSystem#testStripFragmentFromPath

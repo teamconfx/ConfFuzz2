@@ -1,0 +1,2 @@
+{"hadoop.http.max.request.header.size": "7"}
+org.apache.hadoop.hdfs.web.TestWebHDFS#testWebHdfsAllowandDisallowSnapshots

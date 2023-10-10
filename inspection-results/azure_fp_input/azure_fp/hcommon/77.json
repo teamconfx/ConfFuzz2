@@ -1,0 +1,2 @@
+{"zk-dt-secret-manager.zkNumRetries": "0"}
+org.apache.hadoop.security.token.delegation.TestZKDelegationTokenSecretManager#testMultiNodeOperations

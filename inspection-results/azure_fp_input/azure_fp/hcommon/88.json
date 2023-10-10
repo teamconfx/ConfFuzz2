@@ -1,0 +1,2 @@
+{"ipc.15.faircallqueue.decay-scheduler.period-ms": "1"}
+org.apache.hadoop.ipc.TestDecayRpcScheduler#testUsingWeightedTimeCostProvider

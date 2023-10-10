@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "649477926", "mapreduce.output.fileoutputformat.compress": "true"}
+org.apache.hadoop.mapred.TestFileOutputCommitter#testCommitterV2

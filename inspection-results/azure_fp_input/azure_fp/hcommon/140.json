@@ -1,0 +1,2 @@
+{"hadoop.security.group.mapping.ldap.num.attempts": "1"}
+org.apache.hadoop.security.TestLdapGroupsMappingWithBindUserSwitch#testBindUserSwitchPasswordFromAlias

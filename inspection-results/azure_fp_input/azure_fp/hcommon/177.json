@@ -1,0 +1,2 @@
+{"file.bytes-per-checksum": "1540211550", "file.stream-buffer-size": "1525196485"}
+org.apache.hadoop.fs.contract.localfs.TestLocalFSContractSeek#testReadFullyPastEOF

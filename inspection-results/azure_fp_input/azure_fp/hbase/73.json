@@ -1,0 +1,2 @@
+{"hfile.block.cache.policy": "AdaptiveLRU", "hbase.lru.blockcache.acceptable.factor": "0.15686267614364624"}
+org.apache.hadoop.hbase.io.hfile.TestBlockCacheReporting#testLruBlockCache

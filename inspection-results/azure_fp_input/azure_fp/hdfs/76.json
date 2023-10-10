@@ -1,0 +1,2 @@
+{"dfs.webhdfs.socket.read-timeout": "377895d"}
+org.apache.hadoop.hdfs.web.TestWebHDFSAcl#testModifyAclEntriesOnlyAccess

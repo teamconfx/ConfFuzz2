@@ -1,0 +1,2 @@
+{"hadoop.security.key.default.bitlength": "12769"}
+org.apache.hadoop.crypto.key.TestKeyProviderFactory#testJksProviderPasswordViaConfig

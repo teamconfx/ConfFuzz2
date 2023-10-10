@@ -1,0 +1,2 @@
+{"hbase.bucketcache.writer.threads": "0"}
+org.apache.hadoop.hbase.io.hfile.TestCacheConfig#testFileBucketCacheConfig

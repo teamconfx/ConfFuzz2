@@ -1,0 +1,5 @@
+Test Method,# configuration parameter,Configuration Key
+org.apache.kylin.metrics.lib.impl.BlockingReservoirTest#testUpdate,1,[kylin.metrics.prefix=KYLIN;]
+org.apache.kylin.metrics.lib.impl.RecordEventTimeDetailTest#testFormatted,2,[kylin.web.timezone=;kylin.metrics.event-time-zone=GMT;]
+org.apache.kylin.metrics.lib.impl.InstantReservoirTest#testUpdate,1,[kylin.metrics.prefix=KYLIN;]
+org.apache.kylin.metrics.lib.impl.BlockingReservoirTest#testBatchSize,1,[kylin.metrics.prefix=KYLIN;]
